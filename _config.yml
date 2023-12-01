@@ -1,8 +1,51 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Rails4Business
+description: Trasforma l'idea in un azienda!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://marcobeffa.github.io/rails4b
+
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/marcobeffa/rails4b
+plugins:
+  - jekyll-default-layout
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+heading_anchors: true
+
+# Define Jekyll collections
+collections:
+  # Define a collection named "tests", its documents reside in the "_tests" directory
+  tests:
+    permalink: "/:collection/:path/"
+    output: true
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+   
+    # Reference the "tests" collection
+    tests:
+      # Give the collection a name
+      name: Tests
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
+    tutorials:
+      name: Tutorials
+
+   
+
+    
