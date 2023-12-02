@@ -7,6 +7,7 @@ url: https://marcobeffa.github.io/rails4b
 
 aux_links:
   Template Repository: https://github.com/marcobeffa/rails4b
+  
 plugins:
   - jekyll-default-layout
 
@@ -19,33 +20,48 @@ heading_anchors: true
 # Define Jekyll collections
 collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory
-  tests:
+ 
+  strumenti:
+    permalink: "/:collection/:path/"
+    output: true
+  portfolio:
     permalink: "/:collection/:path/"
     output: true
   tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+  tribù:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-   
+    strumenti:
+      name: strumenti
+      nav_fold: true 
+
     # Reference the "tests" collection
-    tests:
+    portfolio:
       # Give the collection a name
-      name: Tests
+      name: Portfolio
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
       # Fold the collection in the navigation
       # Supports true or false (default)
-      nav_fold: true  # note: this option is new in v0.4
+      # nav_fold: true  # note: this option is new in v0.4
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
+   
+  
     tutorials:
-      name: Tutorials
-
+      name: tutorials
+      nav_fold: true 
+    tribù:
+      name: Tribù
+      
    
 
     
