@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Tribù
-nav_order: 2
+title: Componenti
+nav_order: 1
 ---
-
 # Chi siamo
 
 ## Fondatore
