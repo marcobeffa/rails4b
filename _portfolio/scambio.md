@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preventivo
+title: Scambio
 parent: Rails4Business
 nav_order: 2
 ---
