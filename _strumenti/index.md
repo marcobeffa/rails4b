@@ -13,9 +13,12 @@ nav_order: 2
 
 # Framework
 - [Ruby on Rails](https://rubyonrails.org/){:target="_blank"}
-- [Node.js](https://flutter.dev/){:target="_blank"}
+- [Flutter](https://flutter.dev/){:target="_blank"}
+- [jekyllrb](https://jekyllrb.com/){:target="_blank"}
 - [Django](https://www.djangoproject.com/){:target="_blank"}
 - [Node.js](https://nodejs.org/en){:target="_blank"}
+
+
 
 
 # Servizi
