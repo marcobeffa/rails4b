@@ -5,15 +5,18 @@ nav_order: 2
 ---
 
 # Linguaggi di Programmazione
-- [Python](https://www.python.org/){:target="_blank"}
 - [Ruby](https://www.ruby-lang.org/it/){:target="_blank"}
+- [Dart](https://dart.dev/){:target="_blank"}
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}
+- [Python](https://www.python.org/){:target="_blank"}
 - [TypeScript](https://www.typescriptlang.org/){:target="_blank"}
 
 # Framework
 - [Ruby on Rails](https://rubyonrails.org/){:target="_blank"}
+- [Node.js](https://flutter.dev/){:target="_blank"}
 - [Django](https://www.djangoproject.com/){:target="_blank"}
 - [Node.js](https://nodejs.org/en){:target="_blank"}
+
 
 # Servizi
 - [LangChain (Python)](https://python.langchain.com/){:target="_blank"}
