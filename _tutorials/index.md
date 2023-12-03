@@ -1,37 +1,77 @@
 ---
-title: Home
-layout: minimal
+title: Creators
+layout: default
 nav_order: 1
 
 ---
+# Canli youtbe: 
+## Rails: 
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+<a href="https://www.youtube.com/@railsofficial" target="_blank">Deanin</a>
+<a href="https://www.youtube.com/@GorailsTV" target="_blank">GoRails Chris Oliver<a>
+<a href="https://www.youtube.com/@Deanin" target="_blank">Deanin</a>
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+<a href="https://www.youtube.com/@rapid-ruby" target="_blank">Rapid Ruby</a>
 
-More specifically, the created site:
+<a href="https://www.youtube.com/@cjav_dev" target="_blank">CJ Avilla</a>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+<a href="https://www.youtube.com/@PhilSmy" target="_blank">Phil Smy</a>
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+<a href="https://www.youtube.com/@Webcrunch" target="_blank">Web crunch</a>
 
-To get started with creating a site, simply:
+<a href="https://www.youtube.com/@davidheinemeierhansson9989" target="_blank">Dhh</a>
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Ruby: 
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+<a href="https://www.youtube.com/c/JesusCastello" target="_blank">Jesus Castello</a>
 
-----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## Guide
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
+**Code4StartUp:**
+   - <a href="https://code4startup.com/" target="_blank">Sito Web</a>
+
+**Udemi Hotwire:**
+   - <a href="https://www.udemy.com/course/ruby-on-rails-7-y-hotwire-2023/learn/lecture/37019554#overview" target="_blank">Sito Web</a>
+
+**Udemi Hotrails:**
+   - <a href="https://www.hotrails.dev/" target="_blank">Sito Web</a>
+
+**Masilotti Turbo Native Guy:**
+   - <a href="https://masilotti.com/" target="_blank">Sito Web</a>
+
+**Michael Hartl:**
+   - <a href="https://www.michaelhartl.com/" target="_blank">Sito Web</a>
+
+**Chris Oliver (GoRails):**
+   - <a href="https://gorails.com/" target="_blank">GoRails</a>
+
+**Ryan Bates (RailsCasts):**
+   - <a href="http://railscasts.com/" target="_blank">RailsCasts</a>
+
+**DHH (David Heinemeier Hansson):**
+   - <a href="https://twitter.com/dhh" target="_blank">Twitter</a>
+
+**Basecamp Blog:**
+   - <a href="https://signalvnoise.com/" target="_blank">Basecamp Blog</a>
+
+**Drifting Ruby (Dave Kimura):**
+   - <a href="https://www.driftingruby.com/" target="_blank">Drifting Ruby</a>
+
+**Stefan Wintermeyer (RubyGuides):**
+   - <a href="https://www.rubyguides.com/" target="_blank">RubyGuides</a>
+
+**ThoughtBot Blog:**
+  - <a href="https://thoughtbot.com/blog" target="_blank">ThoughtBot Blog</a>
+
+**CodeSchool :**
+  - <a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>
+
+**Hellorails:**
+  - <a href="https://hellorails.io/" target="_blank">Pluralsight</a>
+
+**Harrison from RailsNotes:**
+  - <a href="railsnotes@mail.beehiiv.com" target="_blank">Pluralsight</a>
+

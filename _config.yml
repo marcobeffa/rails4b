@@ -41,6 +41,13 @@ just_the_docs:
       name: strumenti
       nav_fold: true 
 
+    
+  
+    tutorials:
+      name: tutorials
+      nav_fold: true 
+  
+      
     # Reference the "tests" collection
     portfolio:
       # Give the collection a name
@@ -54,14 +61,9 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
-   
-  
-    tutorials:
-      name: tutorials
-      nav_fold: true 
     tribù:
       name: Tribù
+      nav_fold: true 
       
-   
 
     

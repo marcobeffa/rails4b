@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Buttons
-parent: Home
+title: Preventivo
+parent: Rails4Business
 nav_order: 2
 ---
 

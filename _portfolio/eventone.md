@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Buttons
-parent: Home
+title: Scambio
+parent: Rails4Business
 nav_order: 2
 ---
 
