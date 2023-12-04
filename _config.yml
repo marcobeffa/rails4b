@@ -2,56 +2,115 @@ title: Rails4Business
 description: Trasforma l'idea in un azienda!
 theme: just-the-docs
 
+logo: "/assets/images/rails4business.png"
+favicon_ico: "/assets/images/rails4business.png"
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 2
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 3
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 3
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+
+enable_copy_code_button: true
+
 url: https://marcobeffa.github.io/rails4b
 
 
 aux_links:
   Template Repository: https://github.com/marcobeffa/rails4b
-  
+
+aux_links_new_tab: false
+nav_sort: case_sensitive
+
+callouts_level: quiet # or loud
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+
 plugins:
-  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
 
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "9.1.3"
+  version: "9.1.6"
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
+
 heading_anchors: true
+ 
 
 # Define Jekyll collections
 collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory
  
-  strumenti:
-    permalink: "/:collection/:path/"
-    output: true
-  portfolio:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-  tribù:
+
+  progetti:
     permalink: "/:collection/:path/"
     output: true
 
+ 
+ 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-    strumenti:
-      name: strumenti
-      nav_fold: true 
-
+  
     
   
-    tutorials:
-      name: tutorials
-      nav_fold: true 
   
       
     # Reference the "tests" collection
-    portfolio:
+    progetti:
       # Give the collection a name
-      name: Portfolio
+      name: Prossimi progetti
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
@@ -61,9 +120,5 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
-    tribù:
-      name: Tribù
-      nav_fold: true 
-      
 
     

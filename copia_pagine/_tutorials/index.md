@@ -2,7 +2,6 @@
 title: Creators
 layout: default
 nav_order: 1
-
 ---
 # Canli youtbe: 
 ## Rails: 

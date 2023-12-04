@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sviluppo
+title: Strumenti
 nav_order: 2
 ---
 
