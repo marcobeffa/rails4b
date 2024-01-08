@@ -1,3 +1,7 @@
+# per pushare
+
+
+
 # rails4business
 
 Realizzata con un template[Jekyll]:
@@ -9,5 +13,4 @@ Realizzata con un template[Jekyll]:
 
 
 https://marcobeffa.github.io/rails4b/
-
 

@@ -92,7 +92,7 @@ heading_anchors: true
 collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory
  
-  portfolio:   
+  come_lavoriamo:   
     permalink: "/:collection/:path/"
     output: true
   # progetti:
@@ -104,8 +104,8 @@ collections:
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-    portfolio:
-     name: Portfolio
+    come_lavoriamo:
+     name: Come Lavoriamo
   
   
       

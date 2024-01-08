@@ -1,7 +1,8 @@
 ---
 title: Tutorials dal web
 layout: default
-nav_order: 3
+nav_fold: true 
+nav_order: 2
 ---
 # Canli youtbe: 
 ## Rails: 

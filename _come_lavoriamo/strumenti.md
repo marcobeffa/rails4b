@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Strumenti
-nav_order: 2
+title: Strumenti Sviluppo Web
+nav_fold: true 
+nav_order: 1
 ---
 
 # Linguaggi di Programmazione
