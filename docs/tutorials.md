@@ -71,6 +71,8 @@ nav_order: 3
 **Hellorails:**
   - <a href="https://hellorails.io/" target="_blank">Pluralsight</a>
 
-**Harrison from RailsNotes:**
-  - <a href="railsnotes@mail.beehiiv.com" target="_blank">Pluralsight</a>
+
+
+## ricerca con autocompletamento: 
+- <a href="https://dev.to/thomasvanholder/search-autocomplete-stimulus-560p" target="_blank">autocompletamento</a>
 

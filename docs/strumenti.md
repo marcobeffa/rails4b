@@ -6,18 +6,15 @@ nav_order: 2
 
 # Linguaggi di Programmazione
 - [Ruby](https://www.ruby-lang.org/it/){:target="_blank"}
-- [Dart](https://dart.dev/){:target="_blank"}
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}
 - [Python](https://www.python.org/){:target="_blank"}
-- [TypeScript](https://www.typescriptlang.org/){:target="_blank"}
 
 # Framework
 - [Ruby on Rails](https://rubyonrails.org/){:target="_blank"}
-- [Flutter](https://flutter.dev/){:target="_blank"}
 - [jekyllrb](https://jekyllrb.com/){:target="_blank"}
-- [Django](https://www.djangoproject.com/){:target="_blank"}
+- [Hotwired](https://hotwired.dev/){:target="_blank"}
+- [Alpinejs](https://alpinejs.dev/){:target="_blank"}
 - [Node.js](https://nodejs.org/en){:target="_blank"}
-
 
 
 
@@ -62,3 +59,6 @@ nav_order: 2
 - [Jumpstart](https://jumpstartrails.com/){:target="_blank"}
 - [Rails Bytes](https://railsbytes.com/){:target="_blank"}
 - [Rewardful](https://getrewardful.com/){:target="_blank"}
+
+
+- [Organizzazione](https://www.notion.so/){:target="_blank"}

@@ -17,17 +17,22 @@ nav_order: 1
 
 ## Chi Siamo
 
-Rails4Business è un innovativo metodo di lavoro che ti aiuta a costruire il tuo business partendo dalla comprensione approfondita della persona, delle idee e del valore che vuoi creare. Il nostro approccio unico si basa su passi chiave per garantire la creazione di un business solido e sostenibile.
+Rails4Business è un metodo di lavoro che ti aiuta a costruire la tua impresa, partendo da te. Avere delle idee o un progetto è una cosa riuscire a dar vita a queste è la parte complessa. Non tutti hanno bisogno della stessa cosa. 
+Il nostro approccio unico si basa su passi chiave per garantire la creazione di un business solido e sostenibile per la persona, e il gruppo che decide di affrontarlo. 
+Iniziando dalle esigenze della persona.
 
+
+
+<!---
 ## I Nostri Passi Chiave
 
+### 1. Trovare la strada
+
+L'idea che hai in mente per manifestarsi e passare dalla tua testa alla testa di altre persone deve seguire delle tappe ben precise. Esiste infatti una rete di strade invisibili che sono la base dei nostri rapporti con gli altri e puoi decidere se usare una rete esistente o crearne una da 0. 
 
 
-### 1. Esplorare l'Idea e Trovare il Valore
 
-L'idea che hai in mente per uscire dalla testa e passare alle altre persone deve essere ben analizzata e ben scritta. Una volta che si capisce il problema da risolvere a chi può portare valore questa idea, quali problemi va a risolvere è necessario capire con chi partire a realizzarla e quali sono le risorse necessarie.
-
-### 2. Leggere la Persona, Identificare il Ruolo e le Mansioni
+### 2. Esplorare l'Idea e Trovare il Valore Leggere la Persona, Identificare il Ruolo e le Mansioni
 
 Già questo è un primo passo ma Prima di iniziare, è necessario capire i ruoli necessari e che caratteristiche hanno le persone del team o la persona che vuole iniziare lidea perchè ogni persona ha delle attitudini che le facilitano dei ruoli e le rendono difficoltosi altri. Quali sono i ruoli e le mansioni e chi meglio ha le competenze necessarie.
 
@@ -51,3 +56,4 @@ Se hai un'idea e desideri trasformarla in un business di successo, siamo qui per
 Unisciti a noi in questa avventura imprenditoriale, dove la persona e le idee diventano la forza trainante per la creazione di business di successo.
 
 [Contattaci](#) per iniziare il tuo percorso con Rails4Business!
+-->
