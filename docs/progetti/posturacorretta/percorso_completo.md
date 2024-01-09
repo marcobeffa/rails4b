@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Percorso 6 mesi
+title: Percorso Età dello sviluppo
 parent: Posturacorretta
 grand_parent: Progetti
-nav_order: 6
+nav_order: 7
 
 ---
 

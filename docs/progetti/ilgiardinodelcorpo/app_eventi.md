@@ -8,10 +8,7 @@ nav_order: 4
 ---
 
 
-## Prenotone Vs 1 impegno
+## A breve ci sarà un app per gli eventi Prenotone Vs 1 impegno
 
-Nel seminario da un ora, potrai fare un viaggio esperienziale usando il tuo corpo come se fosse un astronave! 
+Il nome è da scegliere nel frattempo controlla le attività della settimana.
 
-Date passate: 
-
-A breve il corso online.

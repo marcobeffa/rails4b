@@ -16,3 +16,16 @@ Il primo progetto dell'impresa è creare canale youtube.
 
 <a href="https://www.youtube.com/posturacorretta" target="_blank">Link al canale<a>
 
+
+Date e argomento 
+
+- Argomenti per damiata date del percorso posturacorretta
+- Corso Marco Belleri Cranio Mandibola 
+- Frapporti Date Argomento
+- Barbara Dusina | Terapie Fisiche | Fisiopilates | Importanza degli esercizi
+- Altri professionisti Benessere presentazione metodiche mirella favagrossa? Paola Magri? Laura Patty? Patrizia Ferrari?
+
+- Venerdì Mattina | Venerdì pomeriggio | Mercoledì Mattina | Lunedì Mattina
+
+Da mettere il calendario. 
+

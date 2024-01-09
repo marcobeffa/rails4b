@@ -20,7 +20,9 @@ L'obiettivo è di diventare un ponte che mette in collegamento le scuole delle m
 ## Rete di professionisti
 Altro obiettivo è creare un metodo che faciliti i professionisti nel creare una rete, che faccia una medicina integrata.
 
-# Possibili scenari
+# Percorso Generale
+
+# Percorsi per patologia
 
 
 # Diventare il punto di riferimento per distribuire gli esercizi hai professionisti e hai pazienti
