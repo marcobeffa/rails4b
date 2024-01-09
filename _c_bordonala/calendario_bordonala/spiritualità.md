@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Spiritualità
-parent: Il giardino del corpo
-grand_parent: Progetti
-nav_order: 7
+parent: Calendario Bordonala
+
+nav_order: 3
 
 ---
 

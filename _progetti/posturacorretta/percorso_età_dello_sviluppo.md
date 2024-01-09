@@ -2,7 +2,7 @@
 layout: default
 title: Percorso completo
 parent: Posturacorretta
-grand_parent: Progetti
+
 nav_order: 7
 
 ---

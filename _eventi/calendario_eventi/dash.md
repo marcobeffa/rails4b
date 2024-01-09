@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Dash Sovranità ed Economia
-parent: Il giardino del corpo
-grand_parent: Progetti
+parent: Calendario Attività
+
 nav_order: 9
 
 # has_children: true

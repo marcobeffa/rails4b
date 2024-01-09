@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Attività nella natura
-parent: Il giardino del corpo
-grand_parent: Progetti
+parent: Calendario Attività
+
 nav_order: 6
 
 ---

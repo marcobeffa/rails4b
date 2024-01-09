@@ -2,7 +2,7 @@
 layout: default
 title: Scuola educazione alla salute
 parent: Posturacorretta
-grand_parent: Progetti
+
 nav_order: 4
 
 ---

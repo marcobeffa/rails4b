@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Attività settimanali C. Bordonala 
-parent: Il giardino del corpo
-grand_parent: Progetti
-nav_order: 2
-
+title: Attenzione
+nav_fold: true 
+has_children: true
+nav_order: 1
 ---
+
+
 
 
 ## Attività settimanali C. Bordonala 

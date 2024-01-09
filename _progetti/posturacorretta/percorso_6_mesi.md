@@ -2,7 +2,7 @@
 layout: default
 title: Percorso 6 mesi
 parent: Posturacorretta
-grand_parent: Progetti
+
 nav_order: 6
 
 ---

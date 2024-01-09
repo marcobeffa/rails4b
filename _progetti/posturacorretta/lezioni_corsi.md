@@ -2,7 +2,7 @@
 layout: default
 title: Piattaforma Lezioni e corsi
 parent: Posturacorretta
-grand_parent: Progetti
+
 nav_order: 2
 
 ---

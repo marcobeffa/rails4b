@@ -2,7 +2,7 @@
 layout: default
 title: App eventi 
 parent: Il giardino del corpo
-grand_parent: Progetti
+
 nav_order: 4
 
 ---

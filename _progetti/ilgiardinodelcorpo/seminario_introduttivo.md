@@ -2,7 +2,7 @@
 layout: default
 title: Seminario introduttivo
 parent: Il giardino del corpo
-grand_parent: Progetti
+
 nav_order: 1
 
 ---

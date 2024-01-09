@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Canale Youtube
-parent: Posturacorretta
-grand_parent: Progetti
+grand_parent: Posturacorretta
+parent: Contenuti
 nav_order: 1
-
 ---
 
 

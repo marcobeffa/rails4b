@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Igiene Posturale
-parent: Posturacorretta
-grand_parent: Progetti
+title: Stato di salute
+parent: Benessere
 nav_order: 5
 
 ---

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Coro spontaneo Canti Popolari
-parent: Il giardino del corpo
-grand_parent: Progetti
+parent: Calendario Bordonala
 nav_order: 5
 
 ---
