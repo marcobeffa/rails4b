@@ -2,8 +2,8 @@
 layout: default
 title: Abbondanza e ricchezza
 parent: Il giardino del corpo
-
 nav_order: 5
+has_children: true
 
 ---
 
