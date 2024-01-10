@@ -14,7 +14,7 @@ nav_order: 3
 - Listino Prezzi | Primo appuntamento con numero altri professionisti
 - Date Corsi Igiene posturale
 - Date Giardino del corpo da usare come introduzione a posturacorretta
-
+- Materiale presentazione corso a Casa Ananda
 
 ## Criticità 
 
