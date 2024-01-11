@@ -1,13 +1,15 @@
 ---
 layout: default
-title:  Tribù professionisti
+title: Collaboratori
 nav_fold: true 
-nav_order: 3
+has_children: true
+nav_order: 1
 ---
+
+
+
 # Chi siamo
 
-## Fondatore
-- [Mark Postura](https://www.instagram.com/markpostura){:target="_blank"}
 
 ## Sviluppatori
 - [Riccardo Diago](https://www.ricsystem.it/guide/){:target="_blank"}

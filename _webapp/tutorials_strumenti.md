@@ -1,9 +1,27 @@
 ---
-title: Tutorials dal web
+title: Strumenti e Tutorials
 layout: default
 nav_fold: true 
 nav_order: 2
 ---
+
+
+## Da vedere
+
+https://codeclimate.com/github/ruby/rdoc/progress/maintainability
+
+Email marketing
+https://buttondown.email/settings#social
+
+https://just-the-docs.com/docs/configuration/#document-collections
+
+
+Alpinejs
+https://gist.github.com/neisdev/f3df6f3491dcca20dd3c86bc04762341
+
+trello clone
+https://www.youtube.com/watch?v=hVfyqmN6ILE
+
 # Canli youtbe: 
 ## Rails: 
 

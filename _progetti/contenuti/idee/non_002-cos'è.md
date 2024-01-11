@@ -48,7 +48,7 @@ Questo non è il solito tipo di ginnastica. Esploriamo il corpo umano lavorando 
 ---
 
 ## Approccio generico e approccio specifico:
-Siamo abituati a un approccio generico, ma offriamo un approccio specifico per affrontare le tue esigenze.
+Siamo abituati a un approccio specifico, ma offriamo un approccio generico per affrontare le tue esigenze.
 
 ---
 

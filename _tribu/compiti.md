@@ -1,20 +1,35 @@
 ---
 layout: default
-title: lun 8 dic 2024
-parent: Attenzione
-
-nav_order: 3
-
+title: Compiti 
+nav_fold: true 
+has_children: true
+nav_order: 2
 ---
+
+
+# Focus e attenzione su questi compiti:
 
 ## Compiti:
 
+- Lista Clienti
+- Date Corso 
+- Primo incontro Paziente Nuovo Metodo Prezzi -
+- Barbara Dusina e altri pazienti
+- Diario della salute
+
 - Orario Marco Beffa
 - Orario C. bordonala
-- Listino Prezzi | Primo appuntamento con numero altri professionisti
+- Listino Prezzi - Primo appuntamento con numero altri professionisti
 - Date Corsi Igiene posturale
 - Date Giardino del corpo da usare come introduzione a posturacorretta
 - Materiale presentazione corso a Casa Ananda
+- Orario Frapporti  - Prezzi e servizi
+- Date Damiata prezzi e servizi
+- Calendario Youtube Date Di registrazione Professionisti
+-  
+
+
+
 
 ## Criticità 
 

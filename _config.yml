@@ -96,10 +96,11 @@ collections:
   progetti:
      permalink: "/:collection/:path/"
      output: true
-  come_lavoriamo:   
+  webapp:
     permalink: "/:collection/:path/"
-    output: true  
-  focus:
+    output: true
+ 
+  tribu:
     permalink: "/:collection/:path/"
     output: true
  
@@ -110,11 +111,11 @@ just_the_docs:
    
     progetti:
       name: Progetti 
-
-    come_lavoriamo:
-     name: Come Lavoriamo
-    focus:
-      name: focus
+    webapp:
+      name: Web app 
+   
+    tribu:
+      name: Tribù
   
   
       

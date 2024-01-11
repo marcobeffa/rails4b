@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dash
+title: Governances
 grand_parent: Il giardino del corpo
-parent: Abbondanza e ricchezza
+parent: Dash
 nav_order: 1
 ---
 
@@ -19,3 +19,13 @@ Ogni operatore Masternode instaura con la rete un legame di fiducia e un contrat
 Immaginiamo un futuro in cui questo modello di contributo trasparente, indistruttibile e verificabile al bene comune, in combinazione con la partecipazione continua della folla attraverso il voto attivo, venga utilizzato per gestire organizzazioni possedute o gestite congiuntamente dai suoi membri, che condividono gli stessi benefici e responsabilità di questi collettivi, come governi, società cooperative, sindacati, DAO, criptovalute, ecc. Chiamiamo questo modello governance decentralizzata tramite blockchain.
 
 [Scopri di più su Dash](https://docs.dash.org/it/stable/docs/user/governance/understanding.html#conclusion)
+
+# Differenze 
+🤓
+"Questa è una buona spiegazione in termini profani di come Web3 e criptovalute siano diversi dal web e dalla finanza legacy.
+
+Dash punta innanzitutto a disintermediare la finanza, per poi affrontare il Web3 con identità digitali decentralizzate.
+
+Unisciti a noi in questo viaggio per decentralizzare Internet e il denaro!"
+
+[Scopri di più su Dash](https://x.com/Dashpay/status/1745203798694642016?s=20)

@@ -1,9 +1,39 @@
 ---
 layout: default
-title: Strumenti Sviluppo Web
+title: Processo Produzione Rapida
 nav_fold: true 
 nav_order: 1
 ---
+
+Processo di sviluppo Produzione
+- Stender l'idea
+- Funzione principale
+- Spunti app esistenti
+- Mockup 
+- Vista pagine html tailwindcss
+- Voci database campi
+
+<hr>
+
+- Ruby 
+- Rails
+- Hotwire
+- Tailwindcss
+- Flowbite
+
+
+<hr>
+
+- Postgress
+- Github - Bitbucket
+- Digital Ocean
+- HatchBox
+- Dominio <!--- MisterDomain -->
+- Strada Ios - Android
+
+-----
+
+Altri strumenti
 
 # Linguaggi di Programmazione
 - [Ruby](https://www.ruby-lang.org/it/){:target="_blank"}
@@ -64,20 +94,3 @@ nav_order: 1
 
 - [Organizzazione](https://www.notion.so/){:target="_blank"}
 
-
-
-## Da vedere
-
-https://codeclimate.com/github/ruby/rdoc/progress/maintainability
-
-Email marketing
-https://buttondown.email/settings#social
-
-https://just-the-docs.com/docs/configuration/#document-collections
-
-
-Alpinejs
-https://gist.github.com/neisdev/f3df6f3491dcca20dd3c86bc04762341
-
-trello clone
-https://www.youtube.com/watch?v=hVfyqmN6ILE
