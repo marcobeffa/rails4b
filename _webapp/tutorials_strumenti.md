@@ -46,13 +46,19 @@ https://www.youtube.com/watch?v=hVfyqmN6ILE
 
 
 ## Guide
+**Code4StartUp:**
+   - <a href="https://gist.github.com/neisdev/f3df6f3491dcca20dd3c86bc04762341" target="_blank">Trello Clone template</a>
+
+
 
 
 **Code4StartUp:**
    - <a href="https://code4startup.com/" target="_blank">Sito Web</a>
 
 **Udemi Hotwire:**
-   - <a href="https://www.udemy.com/course/ruby-on-rails-7-y-hotwire-2023/learn/lecture/37019554#overview" target="_blank">Sito Web</a>
+   - <a href="https://www.udemy.com/course/ruby-on-rails-7-y-hotwire-2023/learn/lecture/37019554#overview" target="_blank">Corso Udemy</a>
+
+
 
 **Udemi Hotrails:**
    - <a href="https://www.hotrails.dev/" target="_blank">Sito Web</a>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Professionisti benessere
-grand_parent: Posturacorretta
+grand_parent: posturacorretta.org
 parent: Target
 
 nav_order: 7

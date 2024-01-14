@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Materiale
-parent: Posturacorretta
+parent: posturacorretta.org
 has_children: true
 nav_order: 5
 ---

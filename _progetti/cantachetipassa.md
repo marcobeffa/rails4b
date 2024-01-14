@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Coro spontaneo Canti Popolari
-parent: C. Bordonala
+title: cantachetipassa.it
 nav_order: 5
+has_children: true
 
 ---
 
 
-## I lunedì 
+## Coro spontaneo Canti Popolari
+ I lunedì 
 
 - dalle 20:00 - 20:30 Jam Session
 - dalle 20:30 - 22:00 Coro Spontaneo

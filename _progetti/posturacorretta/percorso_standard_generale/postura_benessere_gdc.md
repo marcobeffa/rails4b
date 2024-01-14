@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dalla postura al benessere integrato fino al giardino del corpo
-grand_parent:  Posturacorretta
+grand_parent: posturacorretta.org
 parent: Percorso standard generale
 nav_order: 1
 

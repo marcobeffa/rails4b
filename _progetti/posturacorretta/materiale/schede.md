@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schede
-grand_parent: Posturacorretta
+grand_parent: posturacorretta.org
 parent: Materiale
 
 nav_order: 2

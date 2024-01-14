@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Igiene Posturale
-grand_parent:  Posturacorretta
+grand_parent: posturacorretta.org
 parent: Percorso standard generale
 nav_order: 2
 

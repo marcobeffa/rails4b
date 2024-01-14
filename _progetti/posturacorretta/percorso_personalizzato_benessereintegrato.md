@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Percorso Personalizzato BenessereIntegrato
-parent: Posturacorretta
+parent: posturacorretta.org
 nav_order: 3
 has_children: true
 ---

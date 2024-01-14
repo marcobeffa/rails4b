@@ -3,7 +3,7 @@ layout: default
 title: Percorso 6 mesi
 parent: Posturacorretta
 
-grand_parent:  Posturacorretta
+grand_parent: posturacorretta.org
 parent: Percorso standard generale
 nav_order: 3
 

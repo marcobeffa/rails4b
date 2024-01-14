@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Piattaforma Lezioni e corsi
-grand_parent: Posturacorretta
+grand_parent: posturacorretta.org
 parent: Prodotti Benessereintegrato
 
 nav_order: 2

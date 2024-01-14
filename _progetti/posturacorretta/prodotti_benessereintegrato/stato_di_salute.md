@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stato di salute
-grand_parent: Posturacorretta
+grand_parent: posturacorretta.org
 parent: Prodotti Benessereintegrato
 
 nav_order: 5

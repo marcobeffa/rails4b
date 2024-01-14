@@ -9,6 +9,9 @@ nav_order: 1
 
 ## Seminario il giardino del corpo
 
+### Costruire abitudini
+
+
 Nel seminario da un ora, potrai fare un viaggio esperienziale usando il tuo corpo.
 
 A breve il corso online.

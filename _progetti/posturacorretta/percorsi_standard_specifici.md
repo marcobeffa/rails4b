@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Percorsi Standard Specifici
-parent: Posturacorretta
+title: Percorsi standard specifici
+parent:  posturacorretta.org
 has_children: true
 nav_order: 2
 ---
