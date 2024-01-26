@@ -13,7 +13,7 @@ nav_order: 3
 
 Oggi inaugureremo il nostro percorso su PosturaCorretta, Grazie agli esercizi delle  principali metodiche posturali andremo a conoscere e riattivare i nostri sistemi.
 
-È importante comprendere che le patologie si manifestano quando i nostri sistemi entrano in difficoltà e non riescono più a mantenere il nostro corpo in uno stato di salute ottimale.
+Come abbiamo già visto in precedenza è importante comprendere che le patologie si manifestano quando i nostri sistemi entrano in difficoltà e non riescono più a mantenere il nostro corpo in uno stato di salute ottimale.
 
 Cominceremo il nostro percorso concentrandoci sulle articolazioni, in quanto rappresentano il sistema più accessibile da trattare. Nel corso del tempo, se non vengono curate adeguatamente, le articolazioni possono sviluppare problemi, come il consumo della cartilagine e l'insorgere di artrosi.
 
@@ -34,20 +34,30 @@ Infatti le cartilagini non hanno sangue e si nutrono in questo modo.
 2. **Effetto Stagnante:** E' importante Favorire il ricambio dei liquidi.
 Cosa succede se non muoviamo le articolazioni? 
 
-Il liquido ristagna e siccome l'ariticolazione ha una pressione negativa al suo interno avviene che il liquido si riempie di tossine e di sostanze di rifiuto, il nostro liquido linfatico diventa più acido e perciò va a favorire i fenomeni degeneretivi.
+Il liquido ristagna e siccome l'ariticolazione ha una pressione negativa al suo interno avviene che il liquido si riempie di tossine e di sostanze di rifiuto, il nostro liquido sinoviale diventa più acido e perciò va a favorire i fenomeni degeneretivi.
 
 con il movimento invece abbiamo un ricambio di questo liquido che è molto legato al sistema linfatico che fa da fitro e da pulizia per queste tossine.
 
 
-3. **Effetto Tendi-Cinghia:** Coinvolge il sistema muscolare e fasciale e il sistema dei recettori
 
-La rigidità delle articolazioni influenza anche il buon funzionamento della muscolatura e della fascia
 
+
+3. **Effetto Propriocettivo:**
+
+Le articolazioni hanno un influenza anche sul sistema nervoso.  Le articolazioni infatti sono ricche di recettori che insieme ai recettori cutanei informano il corpo sulla nostra posizione.
+Provate chiudere gli occhi e potete benissimo sentire la posizione del vostro ginocchio del vostro braccio
+
+Questo tipo di capacità è fondamentale per la coordinazione degli schemi motori e per organizzare il movimento quando le articolazioni sono rigide facciamo fatica anche a mettere in atto schemi motori complessi. 
+
+
+4. **Effetto Tendi-:** 
+La rigidità delle articolazioni influenza anche il buon funzionamento della muscolatura e della fascia, infatti se le articolazioni non sono ben funzionanti ne risentiranno anche i nostri muscoli e le nostre fasce che non si attiveranno nella maniera corretta sopratutto se i recettori non comunicano bene ci sarà sui muscoli o troppa poca tensione o troppa tensione.
 
 
 
 Ora andiamo a svolgere una breve routine che implemente una routine  di base che lavora sulle articolazioni principali, partendo dalla posizione eretta. 
 Questa routine fa Sia da valutazione che trattamento. Questo ci permetterà di iniziare a sentire i benefici della cura e della riattivazione delle nostre articolazioni.
+
 
 Continuate a seguirci per esplorare ulteriori dettagli e approfondimenti durante il nostro percorso PosturaCorretta!
 

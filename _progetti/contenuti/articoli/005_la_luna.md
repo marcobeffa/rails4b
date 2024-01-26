@@ -25,9 +25,16 @@ Diamo uno sguardo al ciclo lunare: dalla Luna nuova alla Luna piena, un sussegui
 ## Effetti Fisici (circa 2 minuti)
 Abbiamo già esplorato come il nostro sistema linfatico svolge un ruolo cruciale nel nostro benessere. Questo sistema, in breve, agisce come un custode, eliminando tossine che vengono scaricate, tra le altre vie, attraverso l'intestino e, per le donne, attraverso il ciclo mestruale.
 
+
+
 Ma cosa accade se il nostro corpo accumula troppe tossine? L'intestino, benché ben sigillato, può infiammarsi. Questo processo influisce sul tono muscolare nella zona del bacino e dei glutei, rendendo la nostra schiena più rigida. 
 
 Inoltre, i centri d'ansia vengono sottoposti a pressioni significative, specialmente se il sistema linfatico non opera al meglio.
+
+
+## Lavoro bacino Pulizia
+
+## Lavoro drenaggio centri d'ansia
 
 ## Influenza sulla Natura (circa 2 minuti)
 Passiamo ora ad esplorare come la Luna piena influisca sulla natura, influenzando il comportamento degli animali e delle piante. Racconteremo anche aneddoti e storie affascinanti legate a queste influenze.
