@@ -20,4 +20,10 @@ L'obiettivo finale del giardino del corpo è quello di organizzare eventi.
 
 
 
+<a href="https://www.canva.com/design/DAF6CGmT0qs/8qqRYduCAkmQfe5m3HgJzA/view?utm_content=DAF6CGmT0qs&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Giornata il Giardino del corpo</a>
+
+
+<a href="https://www.canva.com/design/DAFbxnegsog/jzS31v5vSrwmha50BhDuDQ/view?utm_content=DAFbxnegsog&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Giornata il Giardino del corpo</a>
+
+
 

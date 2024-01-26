@@ -16,42 +16,7 @@ Viadana di Calvisano
 25012 BS
 
 
-## Dalla Scuola PosturaCorretta al Giardino del corpo
-
-
-
-    
-
-
-
-<hr>
-<img src="https://posturacorretta.org/loghi/gdc_logo.png" alt="il giardiono del corpo" style="height:40px;"><br>
-Si propongono attività per lo sviluppo armonico dell'uomo
-Attività per lo sviluppo armonico dell'essere umano.
-
-
-<img src="https://posturacorretta.org/loghi/logo_pc.png" alt="posturacorretta" style="height:40px;"><br>
-E' un percorso per prevenire le malattie con l'educazione alla salute che inizia dalle  **metodiche posturali** usando questi mezzi:
-
-
-Idealmente per semplificare gli strumenti che possiamo usare si propongono 5 mezzi:
-
-- <span style="color:blue;"> Massaggio</span>
-<br>
-Per massaggio intendiamo tutte quelle attività fatte con il terapista o in autonoemia dove si fa una terapia o un autotrattamento, con terapie manuali o metodiche posturali, si può lavorare su molti aspetti. Nel percorso di 6 mesi posturacorretta vengono elencati i sistemi e i metodi su cui si può lavorare.
-- <span style="color:#5a2894;"> Movimento</span>
-<br>
-Per Movimento intendiamo tutte quelle attività fatte con un professionista o in autonomia dove si lavora sul movimento e sui suoi aspetti forza velocita coordinazione, o utilizzando delle tecniche corporee. 
-- <span  style="color:green;">Meditazione</span>
-<br>
-- <span  style="color:red;">Medicina dei semplici</span>
-- <span  style="color:orange;">Mangiare</span>
-
-
-
-
-
-
+Attività cascina Bordonala
 
 
 

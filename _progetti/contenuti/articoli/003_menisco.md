@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Strategia e Visione 2024
+title: 5 m di posturacorretta 
 grand_parent: Contenuti
 parent: Articoli
 
-nav_order: 2
+nav_order: 3
 
 ---

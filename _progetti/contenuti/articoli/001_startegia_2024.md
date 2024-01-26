@@ -8,6 +8,25 @@ nav_order: 1
 
 ---
 
+## da aggiornare
+
+
+Percorso standard generale
+
+Percorsi standard specifici
+
+Percorso Personalizzato BenessereIntegrato
+
+Dalla postura al benessere integrato fino al giardino del corpo
+Igiene Posturale
+Percorso 6 mesi
+Percorso Completo
+Scuola educazione alla salute
+Network Marketing
+Ruoli
+Merchandising
+
+
 # **Strategia e Visione 2024: Benessere Integrato e Postura Corretta** 🌟🚀🌺⛰️
 
 ## **Visione** 👁️‍

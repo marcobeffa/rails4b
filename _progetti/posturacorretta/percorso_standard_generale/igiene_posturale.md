@@ -12,3 +12,7 @@ nav_order: 2
 
 
 vedi piattaforma posturacorretta
+
+
+<a href="https://www.canva.com/design/DAFqbIfBuck/xjTBZGINXL0nqCijtBMhGA/edit?utm_content=DAFqbIfBuck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Gummy Industried</a>
+
