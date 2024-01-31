@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5 m di posturacorretta 
+title: La luna 
 grand_parent: Contenuti
 parent: Articoli
 
@@ -15,7 +15,7 @@ nav_order: 5
 ## Introduzione (circa 1 minuto)
 Benvenuti su PosturaCorretta! Oggi esploriamo insieme l'affascinante connessione tra il ciclo lunare e il nostro corpo.
 
-La Luna, con la sua forza gravitazionale, esercita un impatto potente sull'acqua, spostando le maree. Ma sapete che questo influisce anche sull'acqua contenuta nelle piante? Se decidiamo di potare durante la luna crescente, il ramo sarà ricco di linfa.
+La Luna, con la sua forza gravitazionale, esercita un impatto potente sull'acqua, spostando le maree. Ma sapete che questo influisce anche su contenuta nelle piante? Se decidiamo di potare durante la luna crescente, il ramo sarà ricco di linfa.
 
 Inoltre, il ciclo lunare gioca un ruolo fondamentale nella semina: seminare durante la luna crescente fa sì che la pianta tenda a germogliare più rapidamente. Ma non è tutto; la Luna ha anche un effetto sul nostro sistema linfatico.
 
@@ -23,7 +23,7 @@ Inoltre, il ciclo lunare gioca un ruolo fondamentale nella semina: seminare dura
 Diamo uno sguardo al ciclo lunare: dalla Luna nuova alla Luna piena, un susseguirsi affascinante di fasi che influenzano la nostra vita quotidiana.
 
 ## Effetti Fisici (circa 2 minuti)
-Abbiamo già esplorato come il nostro sistema linfatico svolge un ruolo cruciale nel nostro benessere. Questo sistema, in breve, agisce come un custode, eliminando tossine che vengono scaricate, tra le altre vie, attraverso l'intestino e, per le donne, attraverso il ciclo mestruale.
+Abbiamo già esplorato come il nostro sistema linfatico svolge un ruolo cruciale nel nostro benessere. Questo sistema, in breve, agisce come un filtro, eliminando tossine che vengono scaricate dai nostri tessuti, tra le altre vie, attraverso l'intestino e, per le donne, attraverso il ciclo mestruale.
 
 
 
@@ -47,6 +47,7 @@ Concludendo, questo viaggio attraverso l'influenza della Luna piena dovrebbe dur
 # Video: L'Influenza della Luna Piena
 
 ## Introduzione (1 minuto)
+Esercizi da fare quando arriva la luna piena se non vuoi dar di matto
 Bentornati su posturacorretta oggi volgio parlarvi dell'influenza che il ciclo lunare ha sulla sul nostro corpo.
 
 La luna ha un effetto sull'acqua con la forza gravgitazionale essa sposta le maree, ha effetto sull'acqua presente nelle piante, se tagliamo in luna crescente il ramo sarà ricco di linfa

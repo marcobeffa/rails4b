@@ -2,6 +2,7 @@
 layout: default
 title:  Webapp Posturacorretta
 parent: Applicazioni
+has_children: true
 nav_order: 1
 ---
  

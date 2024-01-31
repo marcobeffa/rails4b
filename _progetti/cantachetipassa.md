@@ -31,6 +31,58 @@ Viadana di Calvisano
 - dalle 20:30 - 22:00 Coro Spontaneo
 
 
+## Canzoni
+
+- LA MULA DE PARENZO
+- L'UVA FOGARINA
+- ME COMPARE GIACOMETOLO 
+- SPAZZACAMINO
+- VINASSA
+- CARAMBA 
+- [MADONNINA DAI RICCIOLI D'ORO ](https://www.accordiespartiti.it/accordi/musica-popolare/canzoni-popolari-italiane/madonnina-dai-riccioli-doro/){:target="_blank"}
+- QUELLE STRADELLE
+- L'UCCELLINO
+- [REGINELLA CAMPAGNOLA](https://www.accordiespartiti.it/accordi/italiani/villa-claudio/reginella-campagnola/){:target="_blank"}{:target="_blank"}
+- PELLEGRIN CHE VIEN DA ROMA
+- LA STRADA NEL BOSCO
+- E'ARRIVATO L'AMSASCIATORE
+- AMICI MIEI
+- [PIEMONTESINA BELLA](https://www.accordiespartiti.it/accordi/musica-popolare/canzoni-popolari-italiane/piemontesima-bella/){:target="_blank"}
+- IL CACCIATOR DEL BOSCO
+- LA DOMENICA ANDANDO ALLA MESSA
+- IL GALLETTO
+- STELLA DI NEVE
+- [SUL PONTE DI BASSANO](){:target="_blank"}
+- QUEL MAZZOUN DI FIORI
+- MEGLIO SAREBBE  
+- JOHN BROWN
+- NOTER DE BERGHEN;
+- CHITARRA ROMANA
+- LAVORETINA MORETTINO
+- DO GOBETTI
+- FIUME AMARO
+- BELLA CIAO
+- VIVA L'AMOR
+- AMOR DAMMI QUEL FAZZOLETTINO
+- MARINA
+- BELLA GIGOGIN
+- FIN CHE LA BARCA VA'
+- VECCHIO SCARPONE
+- ROMAGNA MIA
+- SELE MIEVASA
+- TANGO DELLE CAPINERE
+- ROSA MUNDA
+- PORTA ROMANA BELLA
+- MAMMA MIA DAMMI CENTO LIRE
+- SOUR PADRON
+- E LA VITA LA VITA
+- AMORE MIO NON PIAPGERE
+- COME PORTI I CAPELLI BELLA DIONDA
+- [CIMITERO DI ROSE](https://www.accordiespartiti.it/accordi/musica-popolare/canti-degli-alpini/cimitero-di-rose/){:target="_blank"}
+- [BARBERA E CHAMPAGNE](https://www.accordiespartiti.it/accordi/italiani/gaber-giorgio/barbera-e-champagne/){:target="_blank"}
+-  
+
+
 ## Prossime date:
 
 Qui le date dove potrete venire a cantare insieme a noi:

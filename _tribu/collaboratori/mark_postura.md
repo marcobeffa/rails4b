@@ -1,12 +1,16 @@
 ---
 layout: default
 title:  Mark Postura 
-
-parent: Collaboratori
-
+parent: Collaboratori 
+has_children: true
 nav_order: 3
 
 ---
+
+
+
+
+
  
 # Fonddatore
 - [Mark Postura](https://www.instagram.com/markpostura){:target="_blank"}
