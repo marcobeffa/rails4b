@@ -4,27 +4,40 @@ title: La luna
 grand_parent: Contenuti
 parent: Articoli
 
-nav_order: 5
+nav_order: 8
 
 ---
-
-
+# data registrazione Ven 9 feb 2024
 
 # Video: L'Influenza della Luna Piena
 
 ## Introduzione (circa 1 minuto)
 Benvenuti su PosturaCorretta! Oggi esploriamo insieme l'affascinante connessione tra il ciclo lunare e il nostro corpo.
 
-La Luna, con la sua forza gravitazionale, esercita un impatto potente sull'acqua, spostando le maree. Ma sapete che questo influisce anche su contenuta nelle piante? Se decidiamo di potare durante la luna crescente, il ramo sarà ricco di linfa.
+La Luna, con la sua forza gravitazionale, esercita un impatto potente sull'acqua, spostando le maree. Ma sapete che questo influisce anche sulla linfa contenuta nelle piante? 
+Se decidiamo di potare durante la luna crescente, il ramo sarà ricco di linfa, l'albero soffrirà di più e il legno sarà di scarsa qualità perchè ricco di linfa sarà più appetibile per i tarli e più difficile da bruciare.
 
-Inoltre, il ciclo lunare gioca un ruolo fondamentale nella semina: seminare durante la luna crescente fa sì che la pianta tenda a germogliare più rapidamente. Ma non è tutto; la Luna ha anche un effetto sul nostro sistema linfatico.
+
+Anche per la semina, il ciclo lunare gioca un ruolo fondamentale: seminare durante la luna crescente fa sì che la pianta tenda a germogliare più rapidamente. Ma non è tutto; la Luna ha anche un effetto sul nostro sistema linfatico.
+
 
 ## Ciclo Lunare (circa 1 minuto)
-Diamo uno sguardo al ciclo lunare: dalla Luna nuova alla Luna piena, un susseguirsi affascinante di fasi che influenzano la nostra vita quotidiana.
+Ma vediamo in modo semplice come è composto il ciclo lunare e come queste fasi che influenzano la nostra vita quotidiana.
+
+Iniziamo con la fase  di luna nuova quando in cielo non si vede niente passiamo poi alla luna crescente e luna vecchia o luna piena e infine luna calante.
+
+
+Esercizio del respiro.
+
+
+Ma cosa accade sui liquidi del nostro corpo. Quando c'è la luna piena?
+
+Come anche in natura l'efeftto gravitazionale favorisce. 
+
+In particolar modo viene influenzato il sistema linfatci
 
 ## Effetti Fisici (circa 2 minuti)
 Abbiamo già esplorato come il nostro sistema linfatico svolge un ruolo cruciale nel nostro benessere. Questo sistema, in breve, agisce come un filtro, eliminando tossine che vengono scaricate dai nostri tessuti, tra le altre vie, attraverso l'intestino e, per le donne, attraverso il ciclo mestruale.
-
 
 
 Ma cosa accade se il nostro corpo accumula troppe tossine? L'intestino, benché ben sigillato, può infiammarsi. Questo processo influisce sul tono muscolare nella zona del bacino e dei glutei, rendendo la nostra schiena più rigida. 

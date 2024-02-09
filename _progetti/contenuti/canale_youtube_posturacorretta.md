@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Canale Youtube
+title: Canale Youtube Posturacorretta
 parent: Contenuti
 nav_order: 4
 ---
