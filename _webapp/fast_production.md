@@ -5,6 +5,10 @@ nav_fold: true
 nav_order: 1
 ---
 
+- [Processo per creare un app](https://www.buymeacoffee.com/markpostura/primo-progetto-posturabook){:target="_blank"}
+
+- [Banco di lavoro](https://dev.to/rails4business/first-post-29n2/){:target="_blank"}
+
 Processo di sviluppo Produzione
 - Stender l'idea
 - Funzione principale

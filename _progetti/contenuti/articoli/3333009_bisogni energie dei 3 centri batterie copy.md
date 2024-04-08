@@ -12,6 +12,19 @@ nav_order: 8
 
 Seconda parte
 SERIE 2
+
+Investi nel tuo corpo! Inizia il percorso
+Riattivare la tua salute e la tua vitalità con le metodiche posturali.
+
+1 - Il tuo corpo è fatto di sistemi, spetta a te mantenerli puliti e in ordine se vuoi che funzionino bene.
+2 - La fisiologia studia il funzionamento dei nostri sistemi.
+3 - Le malattie arrivano quando i sistemi non funzionano più.
+4 - In 15 anni di fisioterapia ti posso assicurare: "pazienti malati con tutti i sistemi in ordine si possono contare sulle dita di una mano".
+5 - Se sei in una condizione in cui c’è una patologia e i sistemi sono compromessi ci sono professionisti della salute che possono aiutarci.
+6 - Le metodiche posturali, con metodi tecniche ed esercizi ci insegnano a conoscere i nostri sistemi e come mantenerli puliti.
+7 - In questa guida ti mostriamo i sistemi fondamentali che devi conoscere e mantenere in ordine per te e per le persone che ami.
+
+Bentornati nel nostro percorso posturacorretta, dopo aver
 Apparato respiratorio
 Le cellule del nostro corpo hanno bisogno di ossigeno per sopravvivere.
 I polmoni e l’apparato respiratorio ne permettono un costante rifornimento.
@@ -63,3 +76,14 @@ chiamata anche Capacità respirato-
 ria, è davvero importante e si ottie-
 ne se inspiriamo ed espiriamo con-
 sapevolmente al nostro massimo.
+
+
+1. Organo emuntore: I polmoni sono gli organi principali del sistema respiratorio responsabili dello
+2. scambio di gas tra l'aria inspirata e il sangue.
+3. ﻿﻿﻿Equilibrio acido-base: La respirazione regola l'equilibrio acido-base nel corpo mediante l'escrezione di anidride carbonica
+(C02), un prodotto di scarto del metabolismo, attraverso
+l'espirazione.
+3. Ossigenazione dei tessuti: La respirazione fornisce ossigeno ai tessuti del corpo, necessario per la produzione di energia attraverso il processo di respirazione 
+
+
+Il diaframma la peristalsi 
