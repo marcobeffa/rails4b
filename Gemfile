@@ -30,3 +30,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "just-the-docs"
 
 gem "html-proofer", "~> 5.0", :group => :development
+gem "faraday-retry"
