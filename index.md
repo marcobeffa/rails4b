@@ -4,56 +4,62 @@ layout: default
 nav_order: 1
 ---
 
-# Benvenuto in Rails4Business!
+- Le nostre web app
+- Blog
+- Progetti
+- Eventi
+- Tribù
+  - Mark Postura
+  
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+
+# Rails 4 Business
+
+Ti offriamo strumenti per:
+
+- Scoprire le tue attitudini
+- Progettare e costruire il tuo business
+- Scegliere un ruolo in un progetto di business già avviato
+
+---
 
 ## Chi Siamo
 
-Rails4Business è un metodo di lavoro che ti aiuta a costruire la tua impresa, partendo da te. Avere delle idee o un progetto è una cosa riuscire a dar vita a queste è la parte complessa. Non tutti hanno bisogno della stessa cosa. 
-Il nostro approccio unico si basa su passi chiave per garantire la creazione di un business solido e sostenibile per la persona, e il gruppo che decide di affrontarlo. 
-Iniziando dalle esigenze della persona.
+**Rails4Business** è uno spazio dove puoi trovare strumenti, persone e idee:
+- Per costruire la tua impresa. 
+- Per mettere a disposizione e monetizzare le tue abilità. 
 
+Avere delle idee è facile, ma realizzarle richiede impegno e strategia. Ogni persona ha capacità e abilità diverse e ognuno è in grado di svolgere compiti diversi che se ben organizzati portano alla creazione di imprese o di attività che generano valore.
 
+Creare valore, aggregare persone, facilitare gli scambi, condividere i **passi chiave**  facilitare la creazione di progetti.
 
-<!---
-## I Nostri Passi Chiave
+---
 
-### 1. Trovare la strada
+## Il Nostro Approccio: I Passi Chiave
 
-L'idea che hai in mente per manifestarsi e passare dalla tua testa alla testa di altre persone deve seguire delle tappe ben precise. Esiste infatti una rete di strade invisibili che sono la base dei nostri rapporti con gli altri e puoi decidere se usare una rete esistente o crearne una da 0. 
+### 1. **Trovare la tua strada**
+Ogni idea necessita di un percorso chiaro per passare dalla tua mente a quella degli altri. Questo percorso può seguire una rete di strade già esistenti o crearne una nuova da zero. Noi ti aiutiamo a scegliere il cammino giusto per te.
 
+### 2. **Esplorare l'idea e trovare il valore**
+Prima di partire, è fondamentale comprendere i ruoli necessari nel team e le attitudini richieste per ciascuno di essi. Ogni persona ha competenze diverse, e questo influisce sulla scelta dei ruoli più adatti. Identificare le mansioni corrette è essenziale per il successo del progetto.
 
+### 3. **Semplificare e trovare la prima funzione utile**
+La semplicità è la chiave dell'efficacia. In questa fase, identifichiamo la funzione primaria del tuo progetto, quella che risolve un problema concreto e offre un beneficio tangibile.
 
-### 2. Esplorare l'Idea e Trovare il Valore Leggere la Persona, Identificare il Ruolo e le Mansioni
+### 4. **Creare un minimo prodotto validabile**
+Con il valore e la funzione definiti, è il momento di creare una versione iniziale dell’applicazione. Usiamo le tecnologie più moderne per sviluppare una soluzione su misura che soddisfi le tue esigenze e obiettivi.
 
-Già questo è un primo passo ma Prima di iniziare, è necessario capire i ruoli necessari e che caratteristiche hanno le persone del team o la persona che vuole iniziare lidea perchè ogni persona ha delle attitudini che le facilitano dei ruoli e le rendono difficoltosi altri. Quali sono i ruoli e le mansioni e chi meglio ha le competenze necessarie.
+### 5. **Fallire velocemente**
+Perché l’idea funzioni, è necessario fare diversi tentativi e miglioramenti. Testa, impara dai fallimenti e trova la soluzione vincente. Se la prima funzione ha un impatto positivo, prosegui. In caso contrario, ricomincia da capo con nuove idee e approcci!
 
-### 3. Semplificare e Trovare la Prima Funzione Utile
-
-Semplificare è la chiave per l'efficacia. Identifichiamo la prima funzione utile del tuo progetto, quella che risolve un problema concreto e offre un beneficio tangibile.
-
-### 4. Creare un minimo prodotto validabile
-
-Con il valore e la funzione chiari, passiamo alla creazione dell'applicazione. Utilizziamo le ultime tecnologie per sviluppare un'app su misura che risponde alle tue esigenze e obiettivi. 
-
-### 5. Fallisci velocemente
-
-Prima che la tua idea funzioni dovrai fare parecchi tentativi per trovare la giusta soluzione. Perciò testa e valuta. Se la prima funzione ha una sua utilità e puoi fare un passo avanti oppure se devi ricominciare da capo!
-
+---
 
 ## Come Possiamo Aiutarti
 
-Se hai un'idea e desideri trasformarla in un business di successo, siamo qui per te. Il nostro approccio centrato sulla persona e guidato dal valore ti guiderà attraverso ogni fase del processo.
+Se hai un'idea e desideri trasformarla in un business di successo, siamo qui per supportarti. Con un approccio centrato sulla persona e focalizzato sul valore, ti guideremo attraverso ogni fase del processo.
 
-Unisciti a noi in questa avventura imprenditoriale, dove la persona e le idee diventano la forza trainante per la creazione di business di successo.
+Unisciti a noi in questa avventura imprenditoriale, dove la tua passione e le tue idee diventeranno la forza trainante per la creazione di un business di successo.
 
-[Contattaci](#) per iniziare il tuo percorso con Rails4Business!
--->
+[Contatto Instagram](https://www.instagram.com/rails4business/) per iniziare il tuo 
+
+percorso con **Rails4Business**!

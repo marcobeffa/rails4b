@@ -96,7 +96,7 @@ collections:
   progetti:
      permalink: "/:collection/:path/"
      output: true
-  webapp:
+  rails:
     permalink: "/:collection/:path/"
     output: true
  
@@ -111,8 +111,9 @@ just_the_docs:
    
     progetti:
       name: Progetti 
-    webapp:
-      name: Web app 
+      
+    rails:
+      name: Rails
    
     tribu:
       name: Tribù
