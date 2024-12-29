@@ -19,7 +19,7 @@ Il grasso si accumula se non facciamo movimeno manigamo male abbiamo problemi or
 Però questi esercizi possono aiutarti a alleviare i disturbi di questa problematica.
 
 
-Ma se vi trovate anche voi come me ad aver affrontato 2 anni dove per problemi vari avete dovuto mollare la vostra forma fisica questo è un buon momento per riniziare e anche io riprenderò con voi
+Se anche voi trovate anche voi come me ad aver affrontato 2 anni dove per problemi vari avete dovuto mollare la vostra forma fisica questo è un buon momento per riniziare e anche io riprenderò con voi
 
 Iniziamo da questi 3 esercizi.
 
