@@ -7,322 +7,55 @@ has_children: true
 nav_order: 
 
 ---
-Mark postura ripartenza per il 2025 di Mark postura è il creatore di una Collana di progetti che sta creando mark postura 
 
-Rails 4business: Tecnologie per la ricchezza,  Trasforma le tue idee e le tue passioni in un entrata economica. Processi progetto Contenuti eVenti - Qualcuno ha il compito di pensarla progettarla e scrivere qualcuno ha il compito di organizzare e comunicare e qualcuno ha il compito di realizzare eseguire e insegnare (Utilizzo delle nuove tecnologie ai e nuovi modi di creare lavoro connettere persone e profilarle in base ai loro talenti per proporre  ruoli e skills. esempio analitico -> ragioniere espansivo estroverso -> Venditore ). Studiare la fisiologia e il tao per trovare soluzioni per il business UItilizzo anche di moneta alternativa come il  progetto dash.org film e  cultura imprenditoriale
 
-Daniel Ek – The Vision 1×01
-Per Sundin – The Industry 1×02
-Petra Hansson, The Law 1×03
-Andreas Ehn – The Coder 1×04
-Martin Lorentzon – The Partner 1×05
-Bobbi T – The Artist 1×06
+# Ideatore Mark Postura
 
-- PosturaCorretta il percorso della salute che inizia dalla postura (un percorso che comprende passo 1 stop al dolore 1a) trovare il professionista della salute che ti aiuta a gestire la fase acuta. fase 1b) approfondire le cause quali sono i sistemi fisiologici bloccati che hanno portato alla patologia, 2 benessereintegrato 2a) valutare come sono messi gli ambiti della tua salute cura riabilit prevenzione performances benessere fitness estetica 2b) hai già un programma della salute che abbia un impatto sulla tua fisiologia 2c) su quali delle 5 aree stai lavorando  -2c1- recupero terapie manuali coscienza corporea e tecniche corporee  -2c2- Movimento allenamento -2c3- Conoscenza degli aspetti sottili mentali cognitivi, emotivi energetici -2c4- Farmaci integratori Erbe officinali -2c5- alimentazione e nutrire il corpo. 2d) crea il programma in autonomia 2e) crea un programma integrato con i professionisti.  3 posturacorretta il percorso della salute che ti aiuta grazie alle metodiche posturali a conoscere e riattivare i tuoi sistemi con i corsi Igiene posturale principi di fisiot (5 sistemi fisiologici principali ) e il resto che c'è sul sito   )
+Fisioterapista appassionato di informatica e natura.
+Creatore di progetti per il benessere e lo sviluppo professionale.
 
-- Il giardino del corpo è un percorso che racchiude in se: Simbologia del corpo umano  Tecnologie per l'evoluzione interiore e lo sviluppo armonico dell'uomo, cabala, rune, tarocchi, sibaldi, jung human design astrologia ecc...  ed esplora nove sfere 3 che sono legate simbolicamente al bacino 3 al torace e 3 alla testa  (Base posturacorretta - Antichi mestieri per il nostro territorio - 1impegno.it - canta che ti passa rails4business - Viaggi tradizioni e culture - pensare come leonardo - esperienze teatrali - Inside adventure. )  
---- 
-Ho comprato tutti i domini ed è anni che lavoro ai vari progetti ora vorrei realizzarli. pensavo di partire dalla landing page di mark postura poi organizzare uno spazio con grafici copy righter ragioniere programmatori rails 4 b per organizzare il resto. 
+## Chi Sono
 
-Posturacorretta la sto già facendo come fisioterapista e il giardino del corpo sono contenuti e attività ed eventi puoi darmi una mano a capire le priorità e quali sono i passi da fare per assumere persone?
+Sono Mark Postura, Fisioterapista dedicato al miglioramento della postura, al benessere fisico e all'evoluzione personale. La mia missione è aiutarti a trovare equilibrio e benessere attraverso percorsi personalizzati e innovativi.
 
-- Attualmente ho un canale posturacorretta su youtube che sarebbe da riprendere. e dovrei dedicare 
-1 slot  a settimana per creare i contenuti registrare e caricarli 1 slot per fare dei gruppi posturacorretta in palestra a calvisano dove si lavorerà sull'autotrattamento movimento massaggio ballo lotta musica arrampicata. 1 slot per i trattamenti individuali a calvisano - da valutare lo stesso in val cavargna - 1 slot a settimana lo dedicherò all'igiene posturale che è il primo corso strutturato posturacorretta per formare professionisti e farlo fare sui loro pazienti - 1 slot per pensare e avere tempo per riassumere scrivere leggere e 1 slot per la comunicazione e gestione di rails4 business -  1 slot per programmare e lavorare su un progetto alla volta. 1slot per le feste e gli eventi il giardino del corpo  - considerando che ho un blog jackill già attivo potrei partire da quello e poi per ora reindirizzare i vari domini sulle varie pagine e pian piano sviluppare e far partire i vari progetti trovando per ogni progetto una persona responsabile. Oltre ai collaboratori per rails4b che diventerebbe il centro operativo per app conenuti e materiale marketing. Solo che il problema è che per ora sto lavorando come muratore e fino a febbraio ho preso l'impegno potrei chiedere da qui a gennaio una riduzione di ore come muratore e iniziare ad organizzare le attività e gli slot della settimana - Siccome ho trovato una morosa bellissima che fa la fotografa per i matrimoni sul lago di como e lei ha già ben chiaro un business milionario a varenna userei questi mesi di transizione e mi piacerebbe mettere a disposizione gli strumenti di rails4b anche a lei....  e poi in futuro creare finalmente l'agriturismo rigenerativo che sarebbe una casa e un quartier generale dove avere una base per accogliere persone e poi riprodurla in altri luoghi belli di modo da poter organizzare attività ed eventi anche se per ora è meglio appoggiarsi su strutture esistenti (come agriturismi hotel e altro in posti naturali ed energetici belli) e mantenere solo una piccola base operativa dove insediare rails4b e il resto appoggiarsi per le altre cose anche a palestre professionisti della salute e del benessere già operativi per sfruttare gli spazi.  L'altra cosa fondamentale è che io per primo vorrei mettere in atto tutto questo e avere una vita bilanciata per questo partirei dal programma settimanale. gli slot prioritari. la comunicazione. l'eliminazione di ciò che non è necessario e capire con quali strutture online partire, la cosa fondamentale poi è avere anche del tempo libero per fare esperienze e per aver il tempo di pensare e mettere a terra le idee, e lo stile di vita sano e soddisfacente per avere energie.  La landing vorrei fare qualche pagina di presentazione statica che reindirizza alle altre i canali ho instagram -> mark postura - e posturacorretta rails4business e il giardino del corpo youtube ho posturacorretta e mark postura come piattaforma pensavo di usare jeckill  rails4b.com è gia attiva. che è gia attiva su rails 4 b come programma settimanale fisso avevo già martedì a calvisano mattina registrazione contenuti in palestra al chiropratic move center di frapporti la sera il gruppo dalle 19.00 alle 20.00 poi il resto degli slot sono da sistemare. la prima cosa che ti chiederei è di riordinare tutto.
- 
-# Fonddatore
-- [Mark Postura](https://www.instagram.com/markpostura){:target="_blank"}
+![Foto](https://i.pinimg.com/280x280_RS/0d/28/d9/0d28d988cb1385fe1ba644f00b5e5e7b.jpg)
 
+## Progetti
 
-## Priorità
-- App eventi 
-parent_evento_prenotazione_id
-parent_evento_principale_id
-Data | Ora | Servizio| Desc | Resp Luogo | Paese | Partecipanti | prezzo +- |
-- Video invito per la presentazione se non vengono neanche alla presentazione gratuita abbiamo sbagliato qualcosaa
+### PosturaCorretta
 
-## Attività settimanali
+Un percorso per la salute che inizia dalla postura. Comprende metodiche per la gestione del dolore, il benessere integrato e programmi di autotrattamento.
 
+![Postura Corretta](https://posturacorretta.org/assets/logo-b55c886aac89a92d7ad93adf6e85b49b16ffedfacd1f0ac4b7aff674ee46fa72.png)
 
-**Lun**
+[Scopri di più](https://posturacorretta.org)
 
-09:00 - 12:00 | Gestione lavoro Rails 4 business | 
-17:00 - 19:30 | PosturaCorretta - Lez individuali | Viadana di Calvisano
-20.00 - 20:30 | Prove strumenti Jam Sessions  | Viadana di Calvisano
-20.00 - 22:00 | Coro canti popolari | Viadana di Calvisano
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/C_9yKa4N80h/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/C_9yKa4N80h/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">Visualizza questo post su Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C_9yKa4N80h/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Un post condiviso da Marco Beffa (@markpostura)</a></p></div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
 
-**Mar**
+### Igiene Posturale
 
-09:00 - 11:00 | Scrivere il blog e contenuti instagram e youtube  | 
-11:00 - 12:00 | Programmare Calendario professionisti contattare| 
-15:00 - 16:00 | <span style="color:blue;">Igiene Posturale</span>| Viadana di Calvisano
-16:00 - 19:30 | PosturaCorretta - Lez individuali | Viadana di Calvisano
-19.30 - 20:30 | <span style="color:blue;">Igiene Posturale</span> | Viadana di Calvisano
+Il primo corso strutturato di PosturaCorretta per mantenere in salute la tua postura.
 
 
-**Giov**
 
-16:00 - 19:30 | PosturaCorretta - Lez individuali | Viadana di Calvisano
+### Il Giardino del Corpo
 
-**Ven**
+Un percorso che esplora la simbologia del corpo umano e tecnologie per lo sviluppo interiore, attraverso discipline come la cabala, astrologia e tarocchi.
 
-08:30 - 10:30 | Registrazione Contenuti Videomaker | Viadana di Calvisano
-10:30 - 11:30 | PosturaCorretta Individuale | Viadana di Calvisano
 
-# Eventi
+### Rails4Business
 
-Data | Ora | Servizio| Desc | Resp Luogo | Paese | Partecipanti
-Dom-26-Gen-2024 | 18:00-19:00 | Il giaedino del corpo | | Casa Ananda | Montichiari | Torosani
-Dom-21-Gen-2024 | 14:30-15:30 | Lettura Espressiva | |  Casa Ananda | Montichiari | Torosani
-Mer-31-Gen-2024 | 14:30-15:30 | Coro || Bellandi Anziani |  Calvisano | Resp. Clara
-Mer 17-GEn-2024 | 20:00-21:00 | Meditazione | |  Casa Filo Patty | Montichiari|  Patrizia Ferrari
-Mer-10-Gen-2024 | 14:30 | organizzazione lavoro | |  Patrizia Ferrari | Calvisano |  Patrizia 
-Mer-10-Gen-2024 | 09:50 | | Bonifico affitto leno 15 gen - 15 feb | Marco Beffa calvisano | Calvisano |  Patrizia 
+Soluzioni per trasformare passioni e idee in progetti economici sostenibili, utilizzando tecnologie avanzate e nuove strategie di connessione professionale.
 
 
 
 
-# Da vedere
 
+## Footer
 
-Reumatici - Età dello sviluppo - Pazienti - Igiene Posturale in gruppo -> 
- 
- Ivan Calmetta 
- Contattare Data Damiata Visite Iniziali e visite Finali.
+&copy; 2025 Mark Postura. Tutti i diritti riservati.
 
- Reumatologi Filippini e Tincani
- Barbara dusina Dottor Falso | Fisiatra asola | Fisiatra Mancini| Ragazzi in età dello sviluppo scoliosi 
- Fabrizio Guarisco Giro lago d'idro? 
- Percorso Sulla voce ?postura o giardino del corpo?
- Percorso Musico Terapia?
- Giro lago di garda
- Eventi in natura 
- Senti Marco Belleri PosturaCorretta
-
-
-
-
-# 1impegno
-
-——- 1imp
-Lista date index
-Show con lista nodi come step
-
-Its’no matter
-
-Tutte le volte che mi dicono di partecipare a qualcosa o devo fare qualcosa mi chiedo questo è importante per me o per chi? A chi vanno le mie risorse il mio tempo o la mia attenzioe?
-È quello che voglio perchè lo faccio? È importNte? 
-
-# PosturaCorretta
-
-
-Pc
-Presen gratuita pc. 
-Present gratuita gdc 
-(teatro emozioni costel)
-(Ben integrato)
-Incontro gratuito
-
-Percorso base
-1mese
-- corso igiene posturale
-
-Percorso intermedio 
-6 mesi
-- 
-
-Nome Cognome tel email 
-- date
-3 colonne 
-Standard - autonomia - Personalizzato
-- iscrizioni
-Lista acquisti
-
-
-Vista admin elenco date con prezzo 
-
-Step percorso standard pallini colorati e ruolo
-Paz p standard 0—0——0
-Seg 
-Data 1 tipo percorso prezzo inscrizione
-Data 2
-
-Ogni pallino è un iscrizione ogni trattino un evento.
-
-——-
-Scheda o lezione fatta
-———- 
-
-
-
-
-# Contenuti
-
-It’s no matter
-
-L’intestino non mente… vivi dove la cacca esce bene…
-
-# categorie
-
-Pazienti
-Eventi
-Lettura poesie sacro e spiritualità teatro
-Contenuti
-Programmazione Rails 
-Gestione Risorse
-Corpo stile di vita Spirit 
-Spiritualità 
-Ricchezza Abbindanza
-Stile di vita relazioni ambiente abitudini
-Come funziona il corpo
-
-Gruppi pc
-Presentazione Pc
-Cibo mangiare dormire attività vitali
-
-Schede
-Montagna Coltivare mestieri antichi cibo filosofia herman orto
-comprare il libro human d le vie
-Musica
-Viaggi Conoscenze pr 
-collaboratori lavoro
-scambio trattamenti
-formazione insegnanti pc
-
-
-
-
-
-# Focus e attenzione su questi compiti:
-
-## Compiti:
-
-- Lista Clienti
-- Date Corso 
-- Primo incontro Paziente Nuovo Metodo Prezzi -
-- Barbara Dusina e altri pazienti
-- Diario della salute
-
-- Orario Marco Beffa
-- Orario C. bordonala
-- Listino Prezzi - Primo appuntamento con numero altri professionisti
-- Date Corsi Igiene posturale
-- Date Giardino del corpo da usare come introduzione a posturacorretta
-- Materiale presentazione corso a Casa Ananda
-- Orario Frapporti  - Prezzi e servizi
-- Date Damiata prezzi e servizi
-- Calendario Youtube Date Di registrazione Professionisti
--  
-
-
-
-
-## Criticità 
-
-- Conoscere le mie caratteristiche
-- Funziono una cosa fatta bene.
-- Centrarsi su un prodotto che funziona e scalarlo. Costruendo i ruoli.
-- Obiettivo su un prodotto scalabile. 
-- Diminuire le ore di trattamento ma lasciarle libere senza pressione di risultato come ricerca
-- Costruire un metodo
-- Creare un piano da seguire
-- Indirizzare i pazienti lunghi con terapie fisiche da Barbara.
-- Puntare sull'igiene posturale
-- Vedere per i 4 target: 
-- Reumatologici
-- Età sviluppo
-- Tutti Pazienti 
-- Professionisti della salute
-
-
-
-CAnale youtube svizzera
-
-Gatta comunicare per scavi
-- Diago
-- Capelli
-
-Chat gpt Pannelli solari e dash
-
-
-
------
-
-Prompt per la landing page MArkpostura
-
-
-Mi servo il prompt per iniziare  il progetto gestire e organizzare il blog con jeckill con il tema just the docs su rails4b.com attualmente già in uso ma da reimpostare che verrà spostato in risorse.rails4b.com e che farà da punto di partenza per l'organizzazione mark postura e che poi sarà collegato a app.rails4b.com un app rails che gestirà tramite le api di chatgpt le richieste e il lavoro del team e il collegamento con i domini e le nuove applicazioni il calendario eventi transazioni servizi contenuti e progetti del team e degli utenti rails4b il blog è già su https://github.com/marcobeffa/rails4b poi dovrei come secondo obiettivo realizzare l'app rails4b.com
-
-
-il calendario per 
-
-gennaio 
-febbraio 
-marzo
-
-- eventi e transazioni 
-- programma saltue
-
-I progetti con le priorità 
-
-- In corso 
-- Prossimi
-- Conclusi
-
-Todo list con 
-
--  importanza urgenza
-
-- valore e delega - rosso verde
-
-
-
-
-
-# Focus e attenzione su questi compiti:
-
-## Compiti:
-
-- Lista Clienti
-- Date Corso 
-- Primo incontro Paziente Nuovo Metodo Prezzi -
-- Barbara Dusina e altri pazienti
-- Diario della salute
-
-- Orario Marco Beffa
-- Orario C. bordonala
-- Listino Prezzi - Primo appuntamento con numero altri professionisti
-- Date Corsi Igiene posturale
-- Date Giardino del corpo da usare come introduzione a posturacorretta
-- Materiale presentazione corso a Casa Ananda
-- Orario Frapporti  - Prezzi e servizi
-- Date Damiata prezzi e servizi
-- Calendario Youtube Date Di registrazione Professionisti
--  
-
-
-
-
-## Criticità 
-
-- Conoscere le mie caratteristiche
-- Funziono una cosa fatta bene.
-- Centrarsi su un prodotto che funziona e scalarlo. Costruendo i ruoli.
-- Obiettivo su un prodotto scalabile. 
-- Diminuire le ore di trattamento ma lasciarle libere senza pressione di risultato come ricerca
-- Costruire un metodo
-- Creare un piano da seguire
-- Indirizzare i pazienti lunghi con terapie fisiche da Barbara.
-- Puntare sull'igiene posturale
-- Vedere per i 4 target: 
-- Reumatologici
-- Età sviluppo
-- Tutti Pazienti 
-- Professionisti della salute
-
-
-
-
-
-- Rails 4b Tecnologie per la ricchezza, 
-- PosturaCorretta il percorso della salute che inizia dalla postura
-- Il giardino del corpo  Tecnologie per l'evoluzione interiore e lo sviluppo armonico dell'uomo.
+- [Instagram](https://instagram.com/markpostura)
+- [YouTube](https://youtube.com/posturacorretta)
+- [Rails4Business](https://rails4b.com)
