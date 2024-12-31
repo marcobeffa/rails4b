@@ -1,14 +1,10 @@
 ---
-title: Calendario Eventi Rails4b
 layout: default
-nav_fold: true 
-has_children: true
-nav_order: 3
+title: 1) Partecipa agli eventi
+parent: Come funziona
+nav_order: 1
 ---
 
-# Calendario Eventi Rails4b
-
-Rimani aggiornato sugli eventi esclusivi organizzati dal nostro team di **Rails4Business**. Gli incontri sono pensati per connettere professionisti, scoprire nuove opportunità e collaborare su progetti innovativi.  
 
 ---
 
@@ -19,7 +15,7 @@ Gli eventi di Rails4Business seguono una struttura chiara e coinvolgente, pensat
    - Presentazione della community e delle sue regole.  
    - Spiegazione su come funziona la Tribù e come partecipare attivamente.
 
-2. **Aperitivo/Colazione e networking**:  
+2. **Colazione/Aperitivo/pranzo/merenda/cena e networking**:  
    - Un momento informale per conoscersi meglio e presentare i nuovi ospiti.  
    - Ogni ospite ha **1 minuto a disposizione** per presentarsi.
 

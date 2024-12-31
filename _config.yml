@@ -100,12 +100,13 @@ collections:
   risorse: 
     permalink: "/:collection/:path/"
     output: true
-  
-  progetti:
+
+  entra_in_azione: 
     permalink: "/:collection/:path/"
     output: true
+
   
-  servizi_tribu:
+  tribu:
     permalink: "/:collection/:path/"
     output: true
   
@@ -116,10 +117,14 @@ just_the_docs:
   collections:
     risorse: 
       name: Risorse 
-    progetti:
-      name: Progetti 
-    servizi_tribu:
-      name: Servizi Tribù
+    
+    entra_in_azione:
+      name: Entra in azione
+
+    tribu:
+      name: Tribù
+
+    
    
     
    

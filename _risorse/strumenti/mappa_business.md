@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Mappa Business
+title: Mappa il tuo Business
 parent: Strumenti
 nav_order: 1
 ---
 
-# Mappa Business
+# Mappa il tuo Business
 
 Immagina il tuo business come una rete metropolitana, con linee, stazioni e percorsi che rappresentano i diversi aspetti della tua attività. Con questo strumento, potrai costruire la mappa del tuo business per visualizzare chiaramente i passaggi necessari da sviluppare.
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  Ideatore Mark Postura 
-grand_parent: Professionisti
 parent:  Brescia Calvisano
 has_children: true
 nav_order: 
@@ -22,11 +21,10 @@ Sono Mark Postura, Fisioterapista dedicato al miglioramento della postura, al be
 
 ## Progetti
 
-### PosturaCorretta
+![Postura Corretta](https://posturacorretta.org/assets/logo-b55c886aac89a92d7ad93adf6e85b49b16ffedfacd1f0ac4b7aff674ee46fa72.png)
 
 Un percorso per la salute che inizia dalla postura. Comprende metodiche per la gestione del dolore, il benessere integrato e programmi di autotrattamento.
 
-![Postura Corretta](https://posturacorretta.org/assets/logo-b55c886aac89a92d7ad93adf6e85b49b16ffedfacd1f0ac4b7aff674ee46fa72.png)
 
 [Scopri di più](https://posturacorretta.org)
 

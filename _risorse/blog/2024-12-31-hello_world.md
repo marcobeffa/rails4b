@@ -1,8 +1,9 @@
 ---
 title: "Tutto inizia da: Hello World"
-parent: Blog Rails4B
+parent: Blog 
 date: 2024-12-31 10:00:00 +0000
 layout: default
+
 ---
 
 ### 31 dic 2024

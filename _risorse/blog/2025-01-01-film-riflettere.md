@@ -1,11 +1,11 @@
 ---
 title: "Film per riflettere"
-parent: Blog Rails4B
-date: 2025-01-01 10:00:00 +0000
+parent: Blog 
+date: 2024-12-22 10:00:00 +0000
 layout: default
 ---
 
-### 01 gen 2025 
+### 22 gen 2024 
 # Film per riflettere
 
 

@@ -1,11 +1,12 @@
 ---
+title: Quando qualcosa non va 
+date: 2024-12-28 10:00:00 +0000
+parent: Blog 
 layout: default
-title: Qualcosa non va
-parent: Linee guida
-nav_fold: true 
-nav_order: 1
+
 ---
 
+### 28 dic 2024
 # Accorgersi che qualcosa non va...
 
 Il primo passo per cambiare qualcosa è **rendersi conto che qualcosa non va**.  
@@ -75,5 +76,5 @@ Una volta chiarite le idee, possiamo lavorare insieme su alcuni aspetti per **ri
 ---
 
 ### Ricorda: ogni grande cambiamento inizia da un piccolo passo.  
-Non sei solo in questo viaggio: siamo qui per accompagnarti.  
+Non sei solo in questo viggio: siamo qui per accompagnarti.  
 **Sei pronto a scoprire il tuo potenziale?**

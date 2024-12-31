@@ -1,9 +1,9 @@
 ---
-title: Blog Rails4B
+title: Blog
 layout: default
 nav_fold: true 
 has_children: true
-nav_order: 3
+nav_order: 2
 ---
 
 # Blog Rails 4 Business
