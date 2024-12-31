@@ -4,6 +4,9 @@ theme: just-the-docs
 
 logo: "/assets/images/rails4business.png"
 favicon_ico: "/assets/images/rails4business.png"
+# aggiunti
+baseurl: "" 
+permalink: pretty
 
 search:
   # Split pages into sections that can be searched individually

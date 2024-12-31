@@ -4,6 +4,9 @@ layout: default
 nav_order: 1
 ---
 
+
+
+
 # Rails4B - Soluzioni per Sviluppatori e Professionisti
 <meta name="description" content="Rails4B: strumenti, risorse, progetti e supporto per sviluppatori e professionisti nel mondo della programmazione e fisioterapia.">
 
