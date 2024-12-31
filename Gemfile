@@ -31,3 +31,5 @@ gem "just-the-docs"
 
 gem "html-proofer", "~> 5.0", :group => :development
 gem "faraday-retry"
+
+gem 'jekyll-sitemap'

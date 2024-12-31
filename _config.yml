@@ -31,7 +31,7 @@ search:
 
 enable_copy_code_button: true
 
-url: https://marcobeffa.github.io/rails4b
+url: https://rails4b.com
 
 
 aux_links:
@@ -63,7 +63,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
-
+  - jekyll-sitemap
 
 mermaid:
   # Version of mermaid library
@@ -92,31 +92,33 @@ heading_anchors: true
 collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory
 
-  
-  progetti:
-     permalink: "/:collection/:path/"
-     output: true
-  rails:
+  risorse: 
     permalink: "/:collection/:path/"
     output: true
- 
+  
+  progetti:
+    permalink: "/:collection/:path/"
+    output: true
+  
   tribu:
     permalink: "/:collection/:path/"
     output: true
- 
+  
+  
  
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-   
+    risorse: 
+      name: Risorse 
     progetti:
       name: Progetti 
-      
-    rails:
-      name: Rails
-   
     tribu:
       name: Tribù
+   
+    
+   
+   
   
   
       
