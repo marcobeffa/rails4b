@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  Videomaker Fabrizio Guarisco
-parent: Chi siamo?
+grand_parent: Professionisti
+parent:  Brescia Calvisano
 has_children: true
 nav_order: 
 

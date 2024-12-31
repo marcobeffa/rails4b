@@ -2,7 +2,6 @@
 layout: default
 title: Unisciti a Noi
 nav_fold: true 
-has_children: true
 nav_order: 2
 ---
 

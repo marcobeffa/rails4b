@@ -100,7 +100,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   
-  tribu:
+  servizi_tribu:
     permalink: "/:collection/:path/"
     output: true
   
@@ -113,8 +113,8 @@ just_the_docs:
       name: Risorse 
     progetti:
       name: Progetti 
-    tribu:
-      name: Tribù
+    servizi_tribu:
+      name: Servizi Tribù
    
     
    
