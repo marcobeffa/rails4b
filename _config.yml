@@ -31,7 +31,7 @@ search:
 
 enable_copy_code_button: true
 
-url: https://rails4b.com
+url: https://marcobeffa.github.io/rails4b
 
 
 aux_links:
@@ -64,7 +64,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
-
+  
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
