@@ -242,50 +242,7 @@ Gatta comunicare per scavi
 
 Chat gpt Pannelli solari e dash
 
-Banca Mutuo
 
-dal 24 febbraio al 30 marzo organizzo un tour per l'italia 
-
-durante faccio le tappe nei posti paesaggistici belli e dove ho degli amici osteopati del metodo corpo e coscienza e metodo gds che ho conosciuto con vari corsi per avviare l'igiene posturale.
-
-per mettere d'accordo il tutti i progetti dovrei aver pronto:
-
-- la mia landing page mark postura 
-- vorrei aver impostato il blog rails4b.com con jekill
-- far partire l'app prototipo semplice di rails4b.com per gestire 
-con le api su chatgpt collaboratori comunicaioni eventi progetti transazioni per tenere i conti sotto controlli contenuti. (magari all'inizio usando un hey calendar e hey email che è già in uso ma questa poi diventerà l'attività core e quella a cui dedicare 1 slot a settimana) questa attività vorrei che abbia sede in svizzera perchè mi trasferirò in valcavargna e sono vicino a lugano perciò vorrei capire come impostare la sede in svizzera
-- Calendario contenuti canale youtube con registrazione video posturacorretta che vorrei automatizzare e dedicare 1 slot a settimana e avere pronti in anticipo video per pubblicare 
-- l'organizzazione delle settimane di gennaio e febbraio
-- comunicazione dei servizi ai pazienti con gli orari
-- Comunicazione a frapporti dei servizi
-- Comunicazione a Davide e Alexandra per i servizi nella palestra di Frapporti a Calvisano Kiropratic move center 
--  Trovare un collega/sostituto che guidi trattamenti e attività a calvisano.
-- la comunicazione per il datore di lavoro come muratore
-- chiarire la richiesta di sponsor/fondi necessari 
-- eventualmente da chiedere mutuo alla banca
-
-- la comunicazione al commercialista per il piano economico del 2025
-- la comunicazione del piano a Monica e alle sue amiche per raccogliere idee e rinforzi.
-
-- Aver pronto la landing e avere pronto la landing del giardino del corpo come percorso personale page del giardino del corpo con la raccolta fondi per l'agriturismo rigenerativo a San Bartolomeo dove ci sarà anche lo studio fotografico di monica e anche lo spazio per i programmatori oltre una sala per i corsi, un bar questo punto è da approfondire con Monica.
-
-- landing posturacorretta con servizi stop al dolore e benessere integrato per i professionisti
-- App igiene posturale per aprire i gruppi con i formatori con i centri dove ci sono i corsi (4 lezioni ) e i professionisti autorizzati.
-- progetto gestito con rails4b libro arrampicata soluzione per la disrtribuzione da discutere con laura l'amica di Monica Bari (la morosa) sistemiamo anche il libro di arrampicata fatto dalle sue amiche 
-- progetto gestito Sviluppo foto varenna con monica Bari
-- landing page per organizzare il calendario del tour bisogna scegliere le tappe e mandare gli inviti.
-
-
-nel frattempo la morosa mi segue con il camper e con le sue amiche e 
-
-## ogni tappa del tour:
--   si presenta posturacorretta (con tutti i servizi il percorso e stop al dolore e ben integrato) per i professionisti. 
-
--  avviamo la demo gratuita del corso igiene posturale che è il primo  corso posturacorretta (è la parte concreta già funzionante) per i pazienti con già la formazione dei professionisti il professionista riceverà il materiale per ripetere le 4 lezioni 1 volta a settimana dal profeessionista presente così facendo con una presentazione si fa partire il gruppo che continuerà il professionista 
-
-- infine il giardinodelcorpo (raccolta fondi agriturismo) 
-
-- poi si fa una cena/pranzo si canta si fa festa e si suona perchè mark postura e monica suonano fisa e chitarra. 
 
 -----
 
