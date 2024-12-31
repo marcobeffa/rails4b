@@ -5,7 +5,8 @@ date: 2024-12-31 10:00:00 +0000
 layout: default
 ---
 
-# 2024-12-31 Iniziamo dall'Hello World
+### 31 gen 2024
+# Iniziamo dall'Hello World
 
 **Ciao mondo!**  
 Ecco come inizia la storia di tutti i programmatori.  

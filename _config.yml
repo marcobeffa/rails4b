@@ -31,8 +31,10 @@ search:
 
 enable_copy_code_button: true
 
-url: https://marcobeffa.github.io/rails4b
 
+# url: https://marcobeffa.github.io/rails4b
+
+url: "https://rails4b.com"
 
 aux_links:
   Template Repository: https://github.com/marcobeffa/rails4b
