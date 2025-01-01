@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Unisciti a Noi
-nav_fold: true 
-nav_order: 2
+title: 3) Unisciti a una tribù
+parent: Come funziona
+nav_order: 3
 ---
+
 
 # Collabora con noi
 

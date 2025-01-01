@@ -2,6 +2,8 @@
 layout: default
 title: 1) Partecipa agli eventi
 parent: Come funziona
+nav_fold: true 
+has_children: true
 nav_order: 1
 ---
 

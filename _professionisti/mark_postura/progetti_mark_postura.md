@@ -1,23 +1,12 @@
 ---
 layout: default
-title:  Ideatore Mark Postura 
-parent:  Brescia Calvisano
+title:  Progetti Mark Postura
+
+parent: Ideatore Mark Postura 
 has_children: true
-nav_order: 
+nav_order: 5
 
 ---
-
-
-# Ideatore Mark Postura
-
-Fisioterapista appassionato di informatica e natura.
-Creatore di progetti per il benessere e lo sviluppo professionale.
-
-## Chi Sono
-
-Sono Mark Postura, Fisioterapista dedicato al miglioramento della postura, al benessere fisico e all'evoluzione personale. La mia missione è aiutarti a trovare equilibrio e benessere attraverso percorsi personalizzati e innovativi.
-
-![Foto](https://i.pinimg.com/280x280_RS/0d/28/d9/0d28d988cb1385fe1ba644f00b5e5e7b.jpg)
 
 ## Progetti
 
@@ -57,3 +46,6 @@ Soluzioni per trasformare passioni e idee in progetti economici sostenibili, uti
 - [Instagram](https://instagram.com/markpostura)
 - [YouTube](https://youtube.com/posturacorretta)
 - [Rails4Business](https://rails4b.com)
+
+
+

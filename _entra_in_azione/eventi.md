@@ -1,9 +1,9 @@
 ---
-title: Calendario Eventi
+title: Eventi
 layout: default
 nav_fold: true 
 has_children: true
-nav_order: 3
+nav_order: 1
 ---
 
 # Calendario Eventi Rails4b

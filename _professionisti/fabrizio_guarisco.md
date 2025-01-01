@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Videomaker Fabrizio Guarisco
-parent:  Brescia Calvisano
+
 has_children: true
 nav_order: 
 

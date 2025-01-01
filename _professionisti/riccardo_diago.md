@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Ing. Informatico Riccardo Diago
-parent:  Brescia Calvisano
+
 has_children: true
 nav_order: 
 
