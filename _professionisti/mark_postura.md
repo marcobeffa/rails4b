@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  Ideatore Mark Postura 
-has_children: true
+has_children: false
+nav_folder: false
 nav_order: 
 
 ---

@@ -1,8 +1,6 @@
 ---
 layout: default
 title:  Ing. Informatico Riccardo Diago
-
-has_children: true
 nav_order: 
 
 ---

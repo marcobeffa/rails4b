@@ -21,13 +21,9 @@ Gli eventi di Rails4Business seguono una struttura chiara e coinvolgente, pensat
    - Un momento informale per conoscersi meglio e presentare i nuovi ospiti.  
    - Ogni ospite ha **1 minuto a disposizione** per presentarsi.
 
-3. **Presentazione progetti aperti**:  
-   - Spazio dedicato a chi ha un progetto in corso e desidera coinvolgere altri membri.  
-   - Ogni partecipante ha **1 minuto a disposizione** per spiegare il proprio progetto.
+3. **Eventi tribù**
 
-4. **Presentazione di servizi offerti**:  
-   - Un’opportunità per i professionisti di presentare i servizi che possono essere utili alla community.  
-   - Ogni professionista ha **1 minuto a disposizione** per spiegare come può supportare i progetti.
+4. **Eventi progetto**
 
 ---
 

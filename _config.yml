@@ -99,11 +99,9 @@ collections:
   progetto: 
     permalink: "/:collection/:path/"
     output: true
-  contenuti: 
-    permalink: "/:collection/:path/"
-    output: true
 
-  entra_in_azione: 
+ 
+  eventi: 
     permalink: "/:collection/:path/"
     output: true
 
@@ -111,6 +109,10 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   
+  risorse: 
+    permalink: "/:collection/:path/"
+    output: true
+
   professionisti:
     permalink: "/:collection/:path/"
     output: true
@@ -123,14 +125,16 @@ just_the_docs:
     progetto: 
       name: Progetto
 
-    contenuti: 
-      name: Contenuti 
     
-    entra_in_azione:
-      name: Entra in azione
+    
+    eventi:
+      name: Eventi
 
     tribu:
       name: Tribù
+    
+    risorse: 
+      name: Risorse 
 
     professionisti:
       name: Professionisti

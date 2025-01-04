@@ -1,11 +1,11 @@
 ---
 title: "Film per riflettere"
 parent: Blog 
-date: 2024-12-22 10:00:00 +0000
+date: 2025-01-01 10:00:00 +0000
 layout: default
 ---
 
-### 22 gen 2024 
+### 01 gen 2025 
 # Film per riflettere
 
 

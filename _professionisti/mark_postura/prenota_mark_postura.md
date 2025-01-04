@@ -9,10 +9,22 @@ nav_order: 3
 
 # Attività Gen Feb 
 
-B1 slot per registrare contenuti video (YouTube pc)
 
-C5 slot per gruppo PosturaCorretta in palestra calvisano
-C5 D5 E5 slot per trattamenti individuali Calvisano
+## Orario Prenotazioni Viadana e Calvisano
+
+Lun | 18:00 20:00 | Indiv. Viadana  | per trattamenti individuali Viadana |
+
+Mar | 18:00 20:00 | Indiv. Viadana  | per trattamenti individuali Viadana |
+
+Mer | 19:00 - 20:00 | gruppo PC BI Calvisano | dalla PosturaCorretta al Benessereintegrato in palestra calvisano Move Kiropratic center 
+
+
+
+
+
+1 slot per vendere ai venditori
+1 slot per vendere ai pazienti
+1 slot per vendere al formatore
 
 1 slot per creare contenuti video (YouTube pc)
 1 slot per studio/lettura/scrittura
@@ -24,7 +36,7 @@ C5 D5 E5 slot per trattamenti individuali Calvisano
 
 1 slot per feste/eventi “Il Giardino del Corpo”
 1 slot per fisarmonica
-1 slot per Muratore 30 h
+1 slot Clara Salerno Gavardo corpo e coscienza
 
 ## Attività Tour marzo 
 

@@ -1,12 +1,20 @@
 ---
 layout: default
-title: 1) Evento Tribù
+title: 1) E. Tribù
 grand_parent: Come funziona
 parent: 1) Partecipa agli eventi
 nav_order: 1
 ---
 
 # Evento tribù
+
+1. **Presentazione progetti aperti**:  
+   - Spazio dedicato a chi ha un progetto in corso e desidera coinvolgere altri membri.  
+   - Ogni partecipante ha **1 minuto a disposizione** per spiegare il proprio progetto.
+
+2. **Presentazione di servizi offerti**:  
+   - Un’opportunità per i professionisti di presentare i servizi che possono essere utili alla community.  
+   - Ogni professionista ha **1 minuto a disposizione** per spiegare come può supportare i progetti.
 
 Durante gli Eventi tribù:
 
