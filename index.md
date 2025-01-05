@@ -4,17 +4,17 @@ layout: default
 nav_order: 1
 ---
 
-# Rails4B 
+# Rails 4 Business 
 
-- Per gli ideatori: Accelera il successo dei tuoi progetti
+- Per gli **ideatori di progetti**: Accelera il successo dei tuoi progetti
 
-- Per chi offre prodotti e servizi: Mostra come possono essere utili per accelerare il successo di un progetto.
+- Per **chi offre prodotti e servizi**: Mostra come possono essere utili per accelerare il successo di un progetto.
 
-- Per la formazione nel Business
+- Per la **formazione nel Business**
 
-- Per la formazione nel AI 
+- Per la **formazione nel IT Informatica e Tecnologica** 
 
-- Per orientarti e capire quale ruolo e attività è più adatta a te e come potresti essere utile nella costruzione di un progetto e capire qual è il ruolo migliore all'interno di un gruppo.
+- Per **orientarti nel mondo del lavoro** per capire quale ruolo e attività è più adatta a te e come potresti essere utile nella costruzione di un progetto e capire qual è il ruolo migliore all'interno di un gruppo.
 
 ### 
 
