@@ -9,7 +9,7 @@ layout: default
 ### 28 dic 2024
 # Accorgersi che qualcosa non va...
 
-Il primo passo per cambiare qualcosa è **rendersi conto che qualcosa non va**.  
+Questo può essere una delle spinte che dà il via al voler fare il primo passo  **rendersi conto che qualcosa non va**.  
 A volte, nel mezzo della tua routine quotidiana, ti senti insoddisfatto o fuori posto. È una sensazione che ti invita a fermarti e osservare con attenzione.
 
 ---

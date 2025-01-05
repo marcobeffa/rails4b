@@ -6,7 +6,9 @@ parent: 1) Partecipa agli eventi
 nav_order: 2
 ---
 
-# Evento progetto
+# 2) Evento progetto
+
+Rimani aggiornato sugli eventi esclusivi organizzati dal nostro team di **Rails4Business**. Gli incontri sono pensati per connettere professionisti, scoprire nuove opportunità e collaborare su progetti innovativi.  
 
 
 **Parte 1 presentazione approfondita progetto**

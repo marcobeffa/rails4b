@@ -165,3 +165,12 @@ Il mio sogno sarebbe realizzare un agriturismo rigenerativo. Per fare questo per
 capitali personale e attività organizzate.
 
 Per questo nel 2022 ho dato il via ai progetti PosturaCorretta, Rails4Business e il giardino del corpo un percorso per lo sviluppo armonico dell’uomo.
+
+
+
+----
+
+
+
+
+

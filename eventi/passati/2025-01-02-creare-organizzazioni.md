@@ -1,9 +1,14 @@
 ---
-title: "Creare organizzazioni"
-parent: Formazione Business
+title: "02 gen 2025 - ore 10:00 Creare organizzazioni"
+parent: Eventi passati
+grand_parent: Eventi
+category: Eventi Formazione Business
 date: 2025-01-02 10:00:00 +0000
 layout: default
+nav_order: 100000
 ---
+
+# Eventi Formazione Business
 
 # Business Canvas Model
 ### 2 gen 2025 ore 10:00 Porlezza Vendere l'idea e creare organizzazioni.

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Servizi Presentati
+title: Servizi e Presentati Presentati
 nav_fold: true
 has_children: true
 nav_order: 2
 ---
 
-# Servizi Presentati 
+# Servizi e Prodotti Presentati 
 
 Benvenuto nella sezione dedicata ai **Servizi Presentati**. Qui puoi trovare i servizi che hanno presentato i professionisti durante gli eventi.
 

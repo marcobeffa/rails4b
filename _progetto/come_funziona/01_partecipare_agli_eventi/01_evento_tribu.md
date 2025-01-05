@@ -6,7 +6,9 @@ parent: 1) Partecipa agli eventi
 nav_order: 1
 ---
 
-# Evento tribù
+# 1) Evento tribù
+
+Rimani aggiornato sugli eventi esclusivi organizzati dal nostro team di **Rails4Business**. Gli incontri sono pensati per connettere professionisti, scoprire nuove opportunità e collaborare su progetti innovativi.  
 
 1. **Presentazione progetti aperti**:  
    - Spazio dedicato a chi ha un progetto in corso e desidera coinvolgere altri membri.  

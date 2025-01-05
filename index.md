@@ -4,7 +4,19 @@ layout: default
 nav_order: 1
 ---
 
-# Rails4B - Accelera il successo dei tuoi progetti
+# Rails4B 
+
+- Per gli ideatori: Accelera il successo dei tuoi progetti
+
+- Per chi offre prodotti e servizi: Mostra come possono essere utili per accelerare il successo di un progetto.
+
+- Per la formazione nel Business
+
+- Per la formazione nel AI 
+
+- Per orientarti e capire quale ruolo e attività è più adatta a te e come potresti essere utile nella costruzione di un progetto e capire qual è il ruolo migliore all'interno di un gruppo.
+
+### 
 
 Smettila di perdere tempo con riunioni che non portano da nessuna parte. 
 Trasformale in eventi rails4business e accelera il successo dei tuoi progetti, dei tuoi servizi, e dei tuoi prodotti.

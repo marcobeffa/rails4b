@@ -2,8 +2,7 @@
 layout: default
 title:  Calvisano
 has_children: true
-grand_parent: Tribù
-parent: Brescia
+parent: Tribù
 nav_order: 
 
 ---

@@ -3,7 +3,7 @@ title: Blog
 layout: default
 nav_fold: true 
 has_children: true
-nav_order: 4
+nav_order: 3
 ---
 
 # Blog Rails 4 Business

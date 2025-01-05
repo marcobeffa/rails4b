@@ -8,10 +8,6 @@ nav_order: 5
 
 ---
 
-## Canale youtube PosturaCorretta
-
-## Canale youtube mark postura
-
 
 
 ## Progetti posturacorretta
@@ -71,6 +67,53 @@ Soluzioni per trasformare passioni e idee in progetti economici sostenibili, uti
 - [Instagram](https://instagram.com/markpostura)
 - [YouTube](https://youtube.com/posturacorretta)
 - [Rails4Business](https://rails4b.com)
+
+
+## Canale youtube PosturaCorretta
+
+
+PosturaCorretta servizi e progetti
+
+- Team Professionisti Salute - Benessere - Tutor - Operatore PosturaCorretta
+- Listino prezzi e servizi 
+- Professionisti Luogo Orari per prenotazioni 
+- Mappa Centri e professionisti | anche domiciliari
+- Fatturazione
+- Modello health canvas model
+- Valutazione Stop al Dolore
+- Lista Appuntamenti 
+- Lavoro in autonomia
+- Servizio Tutor
+- Ai
+
+
+---- 
+
+
+## Canale youtube mark postura
+
+2025 start
+
+- 1 libro a settimana
+- Mercole incontro palestra  frappo
+Contenuti Video youtube mark postura
+Video pc
+
+Ogni mercoledí materiale salute 
+
+Igiene posturale 30 euro a lezione 9 lezioni + principi di fisiot percorso completo (compresa formazione professionisti tirocigno altra parte online) 
+
+Posturacorretta 15 € in 10 
+
+Benessere integrato prepara il tuo programma autonomia (possibilità di inserire i professionisti)
+St dol Bi pc diario salute
+
+
+Mark postura 
+(Pc) Salute - r4b soldi ( relazione scambi ) - scoperte interiori senso - gdc
+
++ mercole mattina fabri
++ eventi calendario 
 
 
 

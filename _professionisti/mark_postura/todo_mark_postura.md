@@ -121,6 +121,7 @@ nav_order: 1
 
 ## Comunicazioni gatta
 
+- [ ] **Contabilità libretto monica**
 
 Diago ha anche la talpa per mettere giù i tubi senza scavare se gli trovi i lavori tipo da peveroni da marzocchi ecc ti gira la percentuale parla con sua moglie daniela bersi
 Non so se a loro servono lavori da muratore
@@ -158,19 +159,3 @@ Back end - rails che interagisce con le api.
 # Frapporti fattura polesini
 # Orari pazienti individuali e gruppi mar questa settimana e mercoledì settimana prossima
 # Professionisti Salute Benessere Tutor formati professionisti posturacorretta
-
-- Team Professionisti Salute - Benessere - Tutor - Operatore PosturaCorretta
-- Listino prezzi e servizi 
-- Professionisti Luogo Orari per prenotazioni 
-- Mappa Centri e professionisti | anche domiciliari
-- Fatturazione
-- Modello health canvas model
-- Valutazione Stop al Dolore
-- Lista Appuntamenti 
-- Lavoro in autonomia
-- Servizio Tutor
-- Ai
-
-
-
-

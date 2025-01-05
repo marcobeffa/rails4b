@@ -101,14 +101,8 @@ collections:
     output: true
 
  
-  eventi: 
-    permalink: "/:collection/:path/"
-    output: true
 
-  tribu:
-    permalink: "/:collection/:path/"
-    output: true
-  
+ 
   risorse: 
     permalink: "/:collection/:path/"
     output: true
@@ -125,13 +119,7 @@ just_the_docs:
     progetto: 
       name: Progetto
 
-    
-    
-    eventi:
-      name: Eventi
-
-    tribu:
-      name: Tribù
+  
     
     risorse: 
       name: Risorse 
