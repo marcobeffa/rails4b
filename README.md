@@ -35,6 +35,27 @@ La struttura del sito segue una logica semplice e intuitiva. Ecco le principali 
 
 ---
 
+## **Come collaborare al progetto**
+
+Siamo sempre alla ricerca di sviluppatori, editori e professionisti che vogliano contribuire al progetto. Ecco come puoi unirti:
+
+### Sviluppatori
+- Migliora il codice sorgente e aggiungi nuove funzionalità.
+- Contribuisci con issue e pull request.
+- Partecipa a discussioni e proponi idee per migliorare il progetto.
+
+### Editori e Creatori di Contenuti
+- Scrivi articoli per il blog.
+- Condividi risorse utili per la community.
+- Crea contenuti visivi o video per promuovere il progetto.
+
+### Come iniziare
+1. Fai un fork della repository.
+2. Lavora sulle tue modifiche in un branch dedicato.
+3. Invia una pull request con una descrizione chiara del tuo contributo.
+
+---
+
 ## **Istruzioni per l'installazione**
 Se vuoi lavorare in locale su questo progetto, segui questi passaggi:
 
@@ -49,3 +70,5 @@ Assicurati di avere installato:
    ```bash
    git clone https://github.com/marcobeffa/rails4b.git
    cd rails4b
+   ```
+
