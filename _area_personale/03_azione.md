@@ -7,4 +7,4 @@ title: 3) Azione
 
 # 3) Azione
 
-Qui sono le azioni che 
+Qui sono le azioni che fai

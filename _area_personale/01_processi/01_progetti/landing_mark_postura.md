@@ -15,13 +15,13 @@ nav_order: 1
 2025 start
 
 - 1 libro a settimana
-- Mercole incontro palestra  frappo
-Contenuti Video youtube mark postura
-Video pc
+- Mercole 19:00 - 20:00 BenessereIntegrato Gruppo  incontro palestra frappo
+- Registrare Contenuti Video youtube mark postura
+- Video pc
 
-Ogni mercoledí materiale salute 
+- Ogni mercoledí materiale salute 
 
-Igiene posturale 30 euro a lezione 9 lezioni + principi di fisiot percorso completo (compresa formazione professionisti tirocigno altra parte online) 
+- Igiene posturale 30 euro a lezione 9 lezioni + principi di fisiot percorso completo (compresa formazione professionisti tirocigno altra parte online) 
 
 Posturacorretta 15 € in 10 
 
