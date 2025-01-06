@@ -107,7 +107,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
-  professionisti:
+  area_personale:
     permalink: "/:collection/:path/"
     output: true
   
@@ -119,13 +119,12 @@ just_the_docs:
     progetto: 
       name: Progetto
 
-  
-    
+
     risorse: 
       name: Risorse 
 
-    professionisti:
-      name: Professionisti
+    area_personale:
+      name: Area Personale
 
     
    
