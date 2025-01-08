@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 3) Storico 
-parent: 3) Azione
+parent: 3) Eventi
+nav_fold: true 
 has_children: true
-nav_order: 10
+nav_order: 3
 ---
 
 # Storico Slot e attività avvenute Comunicazioni 

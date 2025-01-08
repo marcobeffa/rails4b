@@ -7,61 +7,57 @@ date: 2025-01-02 10:00:00 +0000
 layout: default
 nav_order: 100000
 ---
+# Business Canvas Model: Vendere l'Idea e Creare Organizzazioni
 
-# Eventi Formazione Business
+**2 gennaio 2025** - Porlezza: Evento formativo sul **Business Canvas Model**, un modello strategico per vendere idee e creare organizzazioni. Durante l'evento, Alberto ha presentato il suo innovativo sistema di vendita: **IL CASO**.
 
-# Business Canvas Model
-### 2 gen 2025 ore 10:00 Porlezza Vendere l'idea e creare organizzazioni.
+## Cos'è IL CASO?
+**IL CASO** è un acronimo che identifica gli stimoli principali che spingono una persona a comprare. Questo sistema si basa su sei fattori chiave:
 
+- **Inedito**: La novità del prodotto o servizio.
+- **Lucro**: Vantaggi economici come risparmio o possibilità di investimento.
+- **Comodità**: Facilità d'uso o accesso.
+- **Affettività**: Il legame con valori familiari o emotivi.
+- **Sicurezza**: La protezione e l'affidabilità offerte.
+- **Orgoglio**: Il senso di realizzazione o prestigio derivato dall'acquisto.
 
-Con Alberto abbiamo parlato di come vendere l'idea di come creare organizzazioni usando il sistema di vendita da lui inventato IL CASO
+Questo modello si avvicina al concetto di "pain" sviluppato da Frank Merenda, con l'obiettivo di raccontare una storia che evidenzi i benefici dell'acquisto al cliente.
 
-# IL CASO 
-E' un acronimo per ricordare gli stimoli che spingono una persona a comprare.
+## Vendere l'Idea al Venditore
+Quando si propone un’iniziativa, è fondamentale convincere prima il venditore, ovvero la persona che dovrà trasmettere il messaggio al cliente finale. Se il venditore non è coinvolto o motivato, rischierà di ignorare brochure, depliant o qualsiasi altro strumento di marketing.
 
-- Inedito
-- Lucro (Investimento Risparmio)
-- Comodità
-- Affettività (Famiglia)
-- Sicurezza
-- Orgoglio
+### Come farlo?
+1. **Comunicare i benefici**: Mostrare al venditore i vantaggi del prodotto o servizio.
+2. **Includere il venditore nella narrazione**: Utilizzare storie che coinvolgano il venditore e lo facciano sentire parte del processo.
 
-Questo modello è simile a quello del pain di Frank Merenda, che andrò a recuperare appena torno a Brescia.
+## L’Arte di Raccontare le Fiabe
+Per trasmettere efficacemente un’idea, è importante raccontare storie, o meglio, fiabe. Diversamente dal semplice storytelling, una fiaba deve racchiudere tutti i punti di **IL CASO** per convincere l'interlocutore.
 
-Consiste nel raccontare una storia dove si spiegano i vantaggi e i benefici dell'acquisto all'acquirente.
+Ad esempio, una fiaba per un prodotto può evidenziare:
+- La sua unicità (**Inedito**).
+- Come fa risparmiare o genera guadagni (**Lucro**).
+- Quanto è facile da usare (**Comodità**).
+- Come migliora la vita delle persone (**Affettività**).
+- La protezione che offre (**Sicurezza**).
+- Il prestigio o la soddisfazione che genera (**Orgoglio**).
 
+## La Ricapitolazione e l’Anticipazione
+In un percorso formativo strutturato su più incontri, è importante:
+- **Ricapitolare**: All’inizio di ogni incontro, riepilogare i concetti trattati precedentemente.
+- **Anticipare**: Alla fine di ogni sessione, offrire una piccola anticipazione degli argomenti futuri per mantenere alto l'interesse.
 
-## Vendere l'idea al Venditore 
-Se dobbiamo presentare un iniziativa a un commesso che poi deve presentarla ai suoi clienti il primo a cui dobbiamo vendere l'idea è il venditore, altrimenti il commesso butterà i bnostri depliant, biglietto da visita, nel cestino o comunque si dimenticherà presto di noi
+## Il Sistema di Duplicazione
+Un sistema efficace deve essere:
+- **Facile**: Alla portata di tutti, anche di una nonna o un bambino.
+- **Semplice**: Non troppo tecnico o complesso.
+- **Divertente**: Coinvolgente e motivante.
 
+Un equilibrio tra motivazione e parte tecnica è essenziale. Se il processo è troppo difficile o lungo, le persone non lo seguiranno. Deve essere un sistema che consente di ottenere risultati chiari e appaganti.
 
-## Raccontare le fiabe 
-Per trasmettere un idea agli altri dobbiamo raccontare le fiabe che è diverso da fare story telling. La fiaba quando dobbiamo vendere l'idea deve racchiudere in se tutti i punti dell'acronimo il caso. 
+## L’Importanza della Modularità
+La modularità è un principio chiave per il successo. Suddividere i contenuti in piccoli step rende tutto più semplice e accessibile, come accade nei videogiochi con i livelli. Offrire informazioni a piccoli passi permette di mantenere alta l'attenzione e facilita l’apprendimento.
 
+---
 
-## Ricapitolazione e anticipazione 
-Quando facciamo più incontri con un gruppo o con una persona è importante all'inizio di un nuovo incontro fare una ricapitolazione e alla fine nell'attesa del prossimo dare un anticipazione.
-
-## Il sistema di duplicazione
-Facile Semplice Divertente, qualcosa che possa fare anche la nonna o un bambino.
-Ci deve essere un'equilibrio tra motivazione e parte tecnica. 
-Se è troppo difficile o troppo lungo nessuno lo farà
-L'importante che sia qualcosa che si riesca a terminare e di cui la persona sia entusiasta.
-
-
-## Modularità 
-
-La modularità è un concetto importante non si può  dare tutto subito le cose a step sono più facili da seguire. Come nel gaming ci sono i livelli.
-
-## Motivazione nel campo della salute secondo il modello posturacorretta
-
-| Step           | Step 1                                | Step 2                                             | Step 3                                      |
-|-----------------|---------------------------------------|---------------------------------------------------|--------------------------------------------|
-| **Domande** |Cosa puoi fare subito |Come migliorare la situazione |Perchè migliorarla |
-| **Stato**       | Incendio                              | Braci - rischio incendio                          | Luogo isolato                              |
-| **Problema**    | Problema doloroso da risolvere        | Problema che potrebbe ripartire o appena risolto  | Nessuna preoccupazione per il problema     |
-| **Soluzione**   | Soluzione senza capire               | Comprensione di come si evita il problema         | Comprensione delle cause e della propria situazione |
-| **Obiettivo**   | Stop al dolore                       | Benessere integrato                               | Postura corretta                           |
-| **Fase**        | Fase acuta                           | Fase prevenzione benessere                        | Fase educazione                            |
-| **Metafora**    | Spegnere il fuoco                    | Spiegare quali precauzioni mettere in pratica per evitare l'incendio | Capire perché è venuto l'incendio          |
-| **Cosa far notare** |Come ci si sente dopo che un agente esterno medicina o terapista è avvenuta |come ci si sente dopo una seduta in gruppo dopo aver lavorato sul proprio corpo | far vedere come ci si sentirà tra un anno|
+**Conclusione**  
+Il Business Canvas Model e il sistema **IL CASO** rappresentano strumenti potenti per vendere idee e creare organizzazioni. Raccontare storie coinvolgenti, coinvolgere i venditori e strutturare i contenuti in modo modulare sono strategie fondamentali per raggiungere il successo.

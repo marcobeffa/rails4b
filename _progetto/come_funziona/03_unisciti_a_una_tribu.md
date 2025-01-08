@@ -8,12 +8,13 @@ nav_order: 3
 
 # Collabora con noi
 
-Vorresti far parte della nostra Tribù?  
-La tribù di **Rails 4 Business** nasce mettendo al centro la persona, con l’idea che il lavoro non debba essere solo fatica.  
+Vorresti far parte di una tribù?
+
+Chiedi di partecipare ad una tribù esistente!
 
 ---
 
-## Lavoro: **Work** e **Job**
+<!-- ## Lavoro: **Work** e **Job**
 In inglese esistono due modi per descrivere il lavoro:
 
 - **Work**  
@@ -27,17 +28,7 @@ Noi crediamo che il lavoro debba essere un mezzo per:
 - Garantire risorse per soddisfare bisogni e desideri.
 - Scoprire e valorizzare i nostri **talenti**.
 - Creare un **gruppo armonioso** capace di collaborare e crescere insieme.
-
----
-
-## Unisciti agli incontri della Tribù
-Crediamo nell’importanza di **connettere le persone** e condividere idee. Per questo organizziamo **incontri aperti**, dove puoi:
-- Conoscere altri professionisti e imprenditori.
-- Partecipare a gruppi attivi, come i **nomadi digitali**.
-- Presentare la tua professione o il tuo progetto attraverso **mini-presentazioni**.
-
-Ogni incontro è un’occasione per crescere, condividere e collaborare. Per scoprire i prossimi appuntamenti, consulta il [Calendario Eventi](#).
-
+-->
 ---
 
 ## Come partecipare?

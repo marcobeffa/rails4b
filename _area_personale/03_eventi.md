@@ -1,11 +1,12 @@
 ---
 layout: default
-title: 1) Processi
+title: 3) Eventi
 # has_children: true
 # nav_folder: true
 has_children: true
 nav_folder: true
 ---
 
-# I processi 
-Sono le idee i progetti e quello che stai organizzando:
+# 3) Eventi
+
+Qui registra le azioni che fai

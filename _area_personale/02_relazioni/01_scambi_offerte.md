@@ -3,7 +3,7 @@ layout: default
 title: 1) Scambi Offerte
 parent: 2) Relazione 
 has_children: true
-nav_order: 4
+nav_order: 1
 ---
 
 # 2.1) Listino servizi (Processi forniti)
@@ -29,12 +29,12 @@ nav_order: 4
 
 
 
-## Orario Prenotazioni Calvisano
+##  Prenotazioni Calvisano
 
 Mer | 19:00 - 20:00 | gruppo BI | dalla PosturaCorretta al Benessereintegrato in palestra calvisano Move Kiropratic center 
 
 
-## Orario Prenotazioni Viadana 
+##  Prenotazioni Viadana 
 
 Mar | 18:00 20:00 | Indiv. Viadana  | per trattamenti individuali Viadana |
 

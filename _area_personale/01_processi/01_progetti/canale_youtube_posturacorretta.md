@@ -2,8 +2,8 @@
 layout: default
 title: Canale Youtube PosturaCorretta
 grand_parent: Ideatore Mark Postura 
-parent: 1) Processi
-
+grand_parent: 1) Processi
+parent: 1) Progetti
 has_children: true
 nav_order: 7
 

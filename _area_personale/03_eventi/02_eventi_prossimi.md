@@ -1,9 +1,10 @@
 ---
 layout: default
-title:  2) Eventi Prossimi 
-parent: 3) Azione
+title: 2) Eventi Prossimi 
+parent: 3) Eventi
+nav_fold: true 
 has_children: true
-nav_order: 9
+nav_order: 2
 ---
 
 # Storico Slot e attività avvenute Comunicazioni 
@@ -45,7 +46,7 @@ Dom | Occupato  |
   - PosturaCorretta Benessere Integrato (traccia percorso salute -autonomia -professionista)
   - Igiene Posturale Piattaforma
 - Eventi r4b
-
+- Contabilità
 
 **postura corretta**
 - BenessereIntegrato

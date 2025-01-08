@@ -9,4 +9,18 @@ nav_order: 2
 
 ---
 
-Piattaforma
+# Piattaforma Contenuti
+
+# Strumenti
+Realizzare le seguenti app:
+
+- Todo list importanti urgenti - Valore - Rosso verde delegare  - Ordine
+- Struttura landing page
+- Metromap - Rails map
+
+- Week planner attività ripetitive 
+- Eventi e prenotazione luogo insegnante clienti (gruppo)
+
+- Contabilità
+
+

@@ -6,3 +6,5 @@ nav_order: 7
 ---
 
 #  Offri il tuo servizio per un progetto
+
+Durante l'evento fai un offerta per fare una consulenza di presentazione diretta del tuo servizio.

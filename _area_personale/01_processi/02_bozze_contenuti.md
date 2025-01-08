@@ -8,4 +8,3 @@ nav_order: 2
 ---
 
 # Bozze Contenuti da validare e pubblicare confrontarsi con qualcuno
-
