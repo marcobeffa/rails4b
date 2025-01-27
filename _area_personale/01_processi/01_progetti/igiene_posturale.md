@@ -8,8 +8,7 @@ has_children: true
 nav_order: 4
 
 ---
-
-
+<!--
 ## Progetto Igiene Posturale Gruppi dal vivo
 
 Il primo corso strutturato di PosturaCorretta per mantenere in salute la tua postura.
@@ -454,3 +453,7 @@ Vedi il Business Canvas Model.
 
 Diabasi, Metodiche posturali, Scuole tuina, shiatsu ecc.
 
+-->
+
+
+rails new projectr4b -c tailwind -d postgresql

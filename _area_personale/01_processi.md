@@ -3,8 +3,7 @@ layout: default
 title: 1) Processi
 # has_children: true
 # nav_folder: true
-has_children: true
-nav_folder: true
+
 ---
 
 # I processi 

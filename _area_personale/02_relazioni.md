@@ -3,8 +3,7 @@ layout: default
 title: 2) Relazione
 # has_children: true
 # nav_folder: true
-has_children: true
-nav_folder: true
+
 ---
 
 # 2) La relazione 
