@@ -58,10 +58,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    if: ${{ github.event_name == 'push' }}  # Modifica questa linea
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        if: ${{ github.event_name == 'pull_request' }}
         uses: actions/deploy-pages@v4
         env:
           name: github-pages
