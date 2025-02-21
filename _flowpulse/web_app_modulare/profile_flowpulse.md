@@ -15,6 +15,7 @@ L'app **FlowPulse Profile** è il modulo fondamentale per la gestione degli uten
 - **Profili utente**: Ogni utente ha un profilo personalizzato con informazioni come username, contatti e avatar.
 
 ### Mockup (da aggiungere il link alla foto)
+cerca un app per fare i mockup
 
 ### Tecnologie utilizzate:
 - **Rails 8**
