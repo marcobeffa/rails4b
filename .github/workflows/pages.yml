@@ -45,12 +45,11 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-artifact@v4
+      - name: Upload coverage report artifact
+        id: upload-artifact
+        uses: actions/upload-pages-artifact@main
         with:
-          name: site-artifact   # Puoi usare il nome che preferisci per l'artifact
-          path: ./_site 
+          name: github-pages
 
   # Deployment job
   deploy:
@@ -62,11 +61,12 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
-        with:
-          artifact_name: site-artifact   # Usa solo questo nome
-          token: ${{ secrets.GITHUB_TOKEN }}
-          timeout: 600000
-          error_count: 10
-          reporting_interval: 5000
-          preview: false
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: actions/deploy-pages@v4
+        env:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.page_url }}
+        with: 
+          artifact_name: github-pages
+          token: ${{ github.token }}
+          preview: true
