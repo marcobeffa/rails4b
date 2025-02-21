@@ -64,4 +64,9 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact-name: site-artifact
+          artifact_name: site-artifact   # Usa solo questo nome
+          token: ${{ secrets.GITHUB_TOKEN }}
+          timeout: 600000
+          error_count: 10
+          reporting_interval: 5000
+          preview: false
