@@ -100,14 +100,30 @@ collections:
   #   permalink: "/:collection/:path/"
   #   output: true
 
+  
+
+  rails4business: 
+    permalink: "/:collection/:path/"
+    output: true
+
+
+
+ 
+  
+  blog:
+    permalink: "/:collection/:path/"
+    output: true
+  
   flowpulse: 
     permalink: "/:collection/:path/"
     output: true
 
-  progetti_rails: 
+  progetti:
     permalink: "/:collection/:path/"
     output: true
- 
+  
+
+
 
  
   # risorse: 
@@ -126,10 +142,30 @@ just_the_docs:
     # progetto: 
     #   name: Progetto
 
+  
+ 
+
+    
+ 
+    
+   
+    
+    rails4business: 
+      name: Rails 4 Business 
+  
+
+
+    blog: 
+      name: Blog
+
     flowpulse: 
-      name: Flow Pulse
-    progetti_rails: 
-      name: Progetti Rails
+      name: Flowpulse 
+  
+
+    progetti: 
+      name: Progetti
+
+  
 
 
     # risorse: 
