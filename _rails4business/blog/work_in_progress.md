@@ -32,6 +32,7 @@ nav_order: 9000
 - [Dividi et impera il business come ecosistema di progetti]()
 - [Costruire la tua macchina L'importanza dei processi e dei componenti]()
 - [Avere un piano temporale la tattica]()
+- [Non è detto che una macchina che fa i tagliandi non si guasti ma ha più probabilità di funzionare]()
 
 
 

@@ -9,4 +9,4 @@ nav_order: 3
 
 Storico annunci offri cerca:
 
-| Offre / Cerca  | Data  | Nome | Contatto | Descrizione |
+| Offre / Cerca  | Data  | Nome | Contatto | Descrizione | Valore in € o [Dash](https://www.dash.org/it/) |

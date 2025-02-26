@@ -149,6 +149,24 @@ La seconda sessione è invece la sezione progetti. Vedo un Business come un ecos
 
 
 
+## Settimana
+
+
+# Attività settimanali necessarie 
+
+
+| Lun | 05:00 - 13:00 | Val Cavargna | Lavoro sul business Visione d'insieme e realizzazione 
+| Lun | pomeriggio    | Val Cavargna | 2 clienti online/offline
+| Mar | 5:00 - 13:00  | Val Cavargna | Lavoro Preparazione contenuti
+| Mar | pomeriggio    |  Val Cavargna | 2 clienti online/offline
+| Mer | 5:00 - 13:00   | Milano - Brescia | Riunioni professionisti pc - rails4B
+| Mer | 19:00 - 20:00 | Calvisano | Gruppo Frapporti |
+| Gio | 16:00 - 18:00  | Viadana  | Pazienti 
+| Gio |                | Viadana  | Registrare 
+| Gio |                | Viadana  | Pazienti 
+
+
+
 
 ## Seguimi Online
 

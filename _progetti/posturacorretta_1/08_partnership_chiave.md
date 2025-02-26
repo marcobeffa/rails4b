@@ -13,7 +13,7 @@ Identifica le reti di fornitori e partner necessari per il funzionamento del mod
 
 # Collaboratori
 
-| Nome | Ruolo | Attività 
+| Nome |Attività chiave | Step | Ruolo 
 | Belleri Marco | | |
 | Fabrizio Guarisco | | |
 | Monica |  | |

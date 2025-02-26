@@ -13,9 +13,9 @@ Dettaglia i flussi di reddito generati da ciascun segmento di clientela.
 
 
 
-| Consulenze e Programma  |  60 € | Durata da studiare |
-| Corsi online | 20 € |
+| Consulenze e Programma  |  60 € | da testare |
+| Programmi online | 20 € | 
 | Profesisonisti che fanno il video su youtube | 30 € |
-| Merchandaising |  |
-| Donazioni |  | 
-
+| Abbonamento piattaforma  | 1 € a settimana  |
+| Merchandaising |  | Attivare servizio | 
+| Donazioni | ? | 

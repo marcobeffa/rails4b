@@ -12,6 +12,10 @@ nav_order: 4
 Spiega come l’azienda raggiunge i suoi clienti e fornisce loro la proposta di valore.
 
   - Commenti canali youtube 
-  - Dirette Instagram ?
+  
   - Corsi 
   - Eventi sulla salute 
+
+#### Da valutare:
+
+  - Instagram  

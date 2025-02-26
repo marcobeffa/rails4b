@@ -14,4 +14,4 @@ Scrivici il tuo annuncio ti contatteremo per la conferma e poi lo pubblicheremo!
 
 Nel messaggio indica:
 
-| Il tuo Nome | Contatto email, telefono, social, link o sito | la Descrizione di cosa offri o proponi |
+| Il tuo Nome | email / telefono / url  | Propongo: (Descrzione) | valore: € o [Dash](https://www.dash.org/it/) |

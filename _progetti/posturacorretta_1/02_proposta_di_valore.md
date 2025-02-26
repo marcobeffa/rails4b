@@ -27,7 +27,6 @@ Grazie alle metodiche posturali alle tecniche corporee e alle terapie manuali of
 
 
 
-
 ##  Clienti fase acuta
 
 - Consulenza tutor
