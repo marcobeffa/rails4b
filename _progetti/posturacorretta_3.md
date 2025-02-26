@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PosturaCorretta 3 di 3
+title: PosturaCorretta 3
  
 nav_fold: true
 has_children: true
@@ -8,13 +8,11 @@ nav_order: 1
 ---
 
 
-parte 1 |  Contenti e Percorso personalizzato online 
-parte 2 |  Igiene Posturale - Corsi in gruppo 
+
+
+# Parte 3  - Posturacorretta 
+
 parte 3 |  Accademia formazione professionisti 
-
-
-# Parte 3 di 3 - Posturacorretta 
-
 
 Si strutturerà un'accademia posturacorretta di formazione per professionisti
  Accademia Formazione:
