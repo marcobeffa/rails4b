@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proposta di valore
-parent: PosturaCorretta 1 di 3
+parent: PosturaCorretta 1
 nav_fold: true
 has_children: true
 nav_order: 2
@@ -55,7 +55,6 @@ Grazie alle metodiche posturali alle tecniche corporee e alle terapie manuali of
 ## Clienti consapevolezza
 - Consulenza tutor 
 - Diario della salute
-
 - Corsi generali
   - Online 
   - in gruppo

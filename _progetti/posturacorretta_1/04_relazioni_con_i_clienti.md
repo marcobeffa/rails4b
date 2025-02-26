@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Relazione con i clienti
-parent: PosturaCorretta 1 di 3
+parent: PosturaCorretta 1
 nav_fold: true
 has_children: true
 nav_order: 4

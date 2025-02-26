@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Attività Chiave
-parent: PosturaCorretta 1 di 3
+parent: PosturaCorretta 1
 nav_fold: true
 has_children: true
 nav_order: 7
@@ -10,6 +10,10 @@ nav_order: 7
 ##  7. **Attività chiave**:  
 Descrive le azioni più importanti che l’azienda deve compiere per avere successo. 
 
+1. Contenuti Blog PosturaCorretta - Note - Project mappa
+2. Contenuti Canale Youtube
+3. Risposta Commenti
+4. Link al sito e ai servizi
 
 
 # Attività settimanali necessarie 
