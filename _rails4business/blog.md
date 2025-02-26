@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Articoli 
+title: Blog 
 nav_fold: true 
 has_children: true
-nav_order: 4
+nav_order: 6
 ---
 
-# Articoli
+# Blog

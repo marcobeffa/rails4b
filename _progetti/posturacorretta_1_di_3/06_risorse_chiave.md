@@ -10,7 +10,7 @@ nav_order: 6
 ##  6. **Risorse chiave**:  
 Elenca gli asset indispensabili per far funzionare il modello di business.
  
-
+s
 - Canale Youtube 
 - WebApp Contenuti 
 - Supporto Programma schede esercizi Percorso personalizzato online 

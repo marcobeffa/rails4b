@@ -2,7 +2,7 @@
 layout: default
 title: Perchè la Crescita Personale nel business?
 parent: Feb 2025
-grand_parent: Articoli
+grand_parent: Blog
 nav_fold: true
 has_children: true
 nav_order: 3

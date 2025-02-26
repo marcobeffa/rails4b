@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Work in Progress
-parent: Articoli
+parent: Blog
 nav_fold: true
 has_children: true
 nav_order: 9000

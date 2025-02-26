@@ -109,10 +109,7 @@ collections:
 
 
  
-  
-  blog:
-    permalink: "/:collection/:path/"
-    output: true
+
   
   flowpulse: 
     permalink: "/:collection/:path/"
@@ -155,9 +152,7 @@ just_the_docs:
   
 
 
-    blog: 
-      name: Blog
-
+  
     flowpulse: 
       name: Flowpulse 
   
