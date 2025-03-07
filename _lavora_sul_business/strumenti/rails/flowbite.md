@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Rails 8 - Tailwindcss 4 - Flowbite
-parent: Risorse
+title: Rails8-Tailwind4-Flowbite
+parent: Web app rails
+grand_parent: Strumenti 
 nav_fold: true
 has_children: true
 nav_order: 2

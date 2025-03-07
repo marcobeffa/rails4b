@@ -7,10 +7,12 @@ nav_folder: true
 nav_order:
 ---
 
+
 # Ideatore Mark Postura
 
 Fisioterapista appassionato di informatica e natura.  
 Creatore di progetti per il benessere e lo sviluppo professionale.
+# Mark Postura - Contenuti e Progetti
 
 ## Chi Sono
 
@@ -20,9 +22,33 @@ Sono Mark Postura, Fisioterapista dedicato al miglioramento della postura, al be
 
 ---
 
-[Scopri di più](https://posturacorretta.org)
+[Posturacorretta](https://posturacorretta.org)
 
 ---
+
+Mi chiamo **Marco**, noto sui social come **Mark Postura**.
+
+Creo contenuti considerando tre livelli fondamentali:
+
+1. **Modelli dell'uomo**: Studio e prendo ispirazione dai modelli dell'essere umano sviluppati nel mondo occidentale e nelle civiltà storiche.
+2. **Tecnologia e strumenti**: Trasformo questi modelli in strumenti pratici e soluzioni tecnologiche applicabili nei nostri progetti.
+3. **Interazione con la salute**: Esploro come questi modelli influenzano la nostra postura e fisiologia, con un impatto diretto sulla salute.
+
+## I miei progetti
+
+Per mettere in pratica queste idee, ho sviluppato:
+
+- **Il Giardino del Corpo**: Un approccio integrato per affrontare lo sviluppo armonico dell'uomo e la relazione con l'ambiente e la civiltà in cui vive.
+- **Rails4Business**: Un framework per l'automazione e la gestione dei processi aziendali.
+- **PosturaCorretta**: Un metodo pratico per migliorare la postura e il benessere attraverso tecniche specifiche.
+
+## Il Ruolo della Fisiologia
+
+Osservando la nostra **fisiologia** attraverso metodiche posturali e la metodologia **Corpo e Coscienza**, comprendiamo come la nostra **sensazione** sia direttamente collegata alla capacità di percepire attraverso i nostri sensi. Questo ci permette di migliorare il nostro benessere e la qualità della nostra vita.
+
+
+
+
 
 ## Percorso Professionale e Formativo
 

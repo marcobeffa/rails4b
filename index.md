@@ -21,7 +21,6 @@ Sei nel posto giusto se sei:
 
 
 
-
 ---
 
 [Contattaci ora](https://www.instagram.com/rails4business/) e inizia il tuo percorso verso il successo!
