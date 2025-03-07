@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Community
+title: Possibili Progetti
+parent: Idee
 nav_fold: true
 has_children: true
 nav_order: 1
 ---
 
-Entra a far parte della Community rails4business
+# Idee
+

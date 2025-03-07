@@ -4,13 +4,16 @@ layout: default
 nav_order: 1
 ---
 
-# Concludi i tuoi progetti nella metà del tempo.
-## **Rails 4 business**
+## Diventare un imprenditore digitale!
 
-Sei nel posto giusto se sei una:
+
+## Con **Rails 4 business** concludi i tuoi progetti nella metà del tempo  
+
+
+Sei nel posto giusto se sei:
 - Un Imprenditore o vuoi lancare un progetto.
-- Sei un Frelance, sei un professionisti che offre servizi.
-- Sei un programmatori o appassionato di sviluppo web e tecnologie.
+- Sei un Frelance, un professionista o ai servizi e prodotti da offrire.
+- Sei un programmatore o appassionato di sviluppo web e tecnologie informatiche.
 
 
 

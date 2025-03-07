@@ -102,24 +102,20 @@ collections:
 
   
 
-  rails4business: 
-    permalink: "/:collection/:path/"
-    output: true
-
-
-
  
 
-  
-  flowpulse: 
+  lavora_sul_business:
     permalink: "/:collection/:path/"
     output: true
-
+  
   progetti:
     permalink: "/:collection/:path/"
     output: true
   
 
+  rails4business: 
+    permalink: "/:collection/:path/"
+    output: true
 
 
  
@@ -147,19 +143,17 @@ just_the_docs:
     
    
     
-    rails4business: 
-      name: Rails 4 Business 
   
 
-
-  
-    flowpulse: 
-      name: Flowpulse 
+    lavora_sul_business: 
+      name: Lavora sul business
   
 
     progetti: 
       name: Progetti
 
+    rails4business: 
+      name: Rails 4 Business 
   
 
 
