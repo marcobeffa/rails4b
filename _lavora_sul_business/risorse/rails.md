@@ -8,3 +8,7 @@ nav_order: 3
 ---
 
 # Rails 
+
+[Cos'è?](https://rubyonrails.org/)
+
+[Come iniziare?](https://guides.rubyonrails.org/getting_started.html)

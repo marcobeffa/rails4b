@@ -127,7 +127,7 @@ Ecco come si poteva fare era necessario costruire un sistema e venderlo.
 
 Come fare? Serviva un nome posturacorretta e poi, via di business plan, produrre contenuti con il canale youtube e si cerca un programmatore che mi aiutasse a costruire un applicazione.
 
-E' qui che incontrato per la prima volta (ruby on rails)[https://rubyonrails.org/] ho visto la possibilità di costruire una semplice applicazione, che potesse aiutarmi a trasformare l'idea in un business.
+E' qui che incontrato per la prima volta [ruby on rails](https://rubyonrails.org) ho visto la possibilità di costruire una semplice applicazione, che potesse aiutarmi a trasformare l'idea in un business.
 
 Rails è stato creato per rendere la programmazione un esperienza facile e bella per il programmmatore, è stato questo che mi ha spinto ad approfondire, e a volerne sapere di più, su come funzionava e sui fondatori di questo framework.
 
@@ -175,6 +175,7 @@ La seconda sessione è invece la sezione progetti. Vedo un Business come un ecos
 
 
 
+
 ## Settimana
 
 
@@ -202,3 +203,12 @@ La seconda sessione è invece la sezione progetti. Vedo un Business come un ecos
 
 
 
+# Modelli dell'essere umano
+
+https://www.sciepro.com/licensing#signup
+
+# Attivazioni Biologiche
+
+https://www.attivazionibiologiche.info/Bio-Pedia/m/m_51.html#gsc.tab=0
+
+gammapp 
