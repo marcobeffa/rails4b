@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dash.org
-parent: Strumenti 
+parent: Risorse 
 nav_fold: true
 has_children: true
 nav_order: 3

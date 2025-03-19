@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code editor 
-parent: Risorse
+parent: Attrezzi
 nav_fold: true 
 has_children: true
 nav_order: 4

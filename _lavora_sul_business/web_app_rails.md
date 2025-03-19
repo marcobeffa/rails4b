@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Strumenti 
+title: Web app rails
 nav_fold: true 
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
-# Strumenti
+
+# Web app in Rails
+

@@ -2,10 +2,10 @@
 layout: default
 title: Rails8-Tailwind4-Flowbite
 parent: Web app rails
-grand_parent: Strumenti 
+
 nav_fold: true
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 
 

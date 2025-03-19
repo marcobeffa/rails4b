@@ -2,10 +2,10 @@
 layout: default
 title: Note copia di Brutta
 parent: Web app rails
-grand_parent: Strumenti 
+
 nav_fold: true
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
 
@@ -896,6 +896,12 @@ field_with_errors
 bundle exec rubocop --auto-correct
 
 
+## scarica il pdf dalle pagine
+
+https://chatgpt.com/share/67d31b6b-fcc8-8002-af8a-423d080ac32b
+
+## download delle note in csv
+
 ## Aggiungere un admin per vedere gli utenti
 
 ## Una struttura ad albero 
@@ -909,4 +915,151 @@ bundle exec rubocop --auto-correct
 ## Programmi delle attività
 ## Verfica step del programma
 ## Feedback
+
+
+## Turbo frame ecc..
+
+
+### Pwa
+
+https://chatgpt.com/share/67d31c20-732c-8002-ae7b-6d84b94d9431
+
+https://alicia-paz.medium.com/make-your-rails-app-work-offline-part-1-pwa-setup-3abff8666194
+
+
+## Lo stato  se la visibilità è privata scompare.
+
+bundle exec rubocop --auto-correct   
+
+
+
+
+CI / scan_ruby (push) In progress - This check has started...
+Details
+
+CI / lint (push) In progress - This check has started...
+Details
+
+CI / test (push) In progress - This check has started...
+Details
+
+CI / scan_js (push) Successful in 12s
+
+
+# config/initializers/field_with_errors.rb
+
+```rb
+# config/initializers/field_with_errors.rb
+ActionView::Base.field_error_proc = Proc.new do |html_tag, _instance|
+  html_tag.html_safe
+end
+```
+
+
+
+---------------------------
+# API Rails: Isolamento e Versioning con V1
+
+## 1️⃣ Generare il Controller API
+
+Usa il comando per creare un controller API con namespace `api/v1`:
+
+```bash
+rails g controller api/v1/profiles/posts --skip-template-engine --skip-assets --skip-helper
+```
+
+Questo creerà il file:
+
+```
+📂 app/controllers/api/v1/profiles/posts_controller.rb
+```
+
+---
+
+## 2️⃣ Configurare il Controller API
+
+Apri il file generato e implementa `index` e `show`:
+
+```ruby
+module Api
+  module V1
+    class Profiles::PostsController < ApplicationController
+      before_action :set_profile
+
+      # Lista di tutti i post pubblici (solo note)
+      def index
+        @posts = @profile.contents.published.public_visibility.notes_only.order(publication_date: :desc)
+        render json: @posts
+      end
+
+      # Singolo post (controlla che sia pubblico e sia una nota)
+      def show
+        @post = @profile.contents.published.public_visibility.notes_only.find_by(id: params[:id])
+
+        if @post
+          render json: @post
+        else
+          render json: { error: "Post not found or not public" }, status: :not_found
+        end
+      end
+
+      private
+
+      def set_profile
+        @profile = Profile.find_by(username_id: params[:username_id])
+        render json: { error: "Profile not found" }, status: :not_found unless @profile
+      end
+    end
+  end
+end
+```
+
+---
+
+## 3️⃣ Configurare le Rotte API
+
+Apri `config/routes.rb` e aggiungi le rotte per il namespace API:
+
+```ruby
+namespace :api do
+  namespace :v1 do
+    resources :profiles, param: :username_id, only: [] do
+      resources :posts, only: [:index, :show], module: :profiles
+    end
+  end
+end
+```
+
+---
+
+## 4️⃣ Esempi di chiamate API
+
+### 📌 Ottenere tutte le note pubbliche di un profilo
+```http
+GET /api/v1/profiles/:username_id/posts
+```
+**Esempio:** `/api/v1/profiles/123/posts`
+
+---
+
+### 📌 Ottenere una singola nota pubblica per ID
+```http
+GET /api/v1/profiles/:username_id/posts/:id
+```
+**Esempio:** `/api/v1/profiles/123/posts/456`
+
+---
+
+## 5️⃣ (Opzionale) Creare un Namespace API per Futuro Versioning
+
+Se in futuro vuoi rilasciare **v2**, puoi semplicemente copiare il controller in `api/v2/`, modificare eventuali logiche, e aggiungere le nuove rotte senza impattare la versione `v1`.
+
+---
+
+## 💡 Vantaggi di questa Struttura
+✅ Separazione pulita tra API e altre logiche dell'app.  
+✅ Facile da scalare con nuove versioni (`v2`, `v3`, ecc.).  
+✅ Organizzazione chiara con namespace e moduli.  
+
+Se hai bisogno di aggiungere autenticazione (JWT, token, ecc.) o ottimizzare la risposta con **Jbuilder** o **Fast JSON API**, fammelo sapere! 🚀
 

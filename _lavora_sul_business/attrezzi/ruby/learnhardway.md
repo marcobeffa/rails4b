@@ -2,7 +2,7 @@
 layout: default
 title: Learn Hard way 
 parent: Ruby 
-grand_parent: Risorse
+grand_parent: Attrezzi
 nav_fold: true 
 has_children: true
 nav_order: 1

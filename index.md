@@ -4,16 +4,21 @@ layout: default
 nav_order: 1
 ---
 
-## Diventare un imprenditore digitale!
+## Benvenuto su **Rails 4 business**! 
 
 
-## Con **Rails 4 business** concludi i tuoi progetti nella metà del tempo  
+## Il posto per piccoli programmatori che hanno grandi sogni.
 
-
-Sei nel posto giusto se sei:
-- Un Imprenditore o vuoi lancare un progetto.
-- Sei un Frelance, un professionista o ai servizi e prodotti da offrire.
-- Sei un programmatore o appassionato di sviluppo web e tecnologie informatiche.
+- Scrivi la tua idea
+- Trasforma la tua idea in un processo
+- Scrivi il Business canvas model
+- Crea un minimo business plan
+- Trova il tuo team
+- Crea la tua app, come MVP prodotto minimo funzionante
+- Lancia la tua ipo offerta pubblica iniziale
+- Fallisci velocemente e riprova
+- Metti le ali al tuo progetto 
+- Costruisci il tuo business o miglioralo con nuovi progetti
 
 
 
