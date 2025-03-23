@@ -32,7 +32,7 @@ Area Riservata
 - Profilo Utenti
 - Iscrizione al Materiale
 - Diario della salute
-    - Lavoro in autonomia   
+    - Produttività in autonomia   
     - Appuntamenti Professionisti
         -  Stopaldolore
         -  BenessereIntegrato

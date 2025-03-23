@@ -9,7 +9,7 @@ nav_order: 5
 
 ---
 
-Creare gruppi dove si crea il percorso della salute e si progetta il lavoro della settiamana.
+Creare gruppi dove si crea il percorso della salute e si progetta il produttività della settiamana.
 
 E poi si fa anche la parte sulla postura.
 

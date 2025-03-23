@@ -197,7 +197,7 @@ Modello di conoscenza dell'essere umano: Modello sensazione pensiero sentimento 
     - Soppravvivenza | Salute #2bff00
       -  Salute #0091ff
         - Diario della salute 
-          - lavoro in autonomia
+          - produttività in autonomia
           - servizi professionisti
         - Stato di salute 
         - Stop al Dolore @programma 

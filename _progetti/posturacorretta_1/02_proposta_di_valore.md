@@ -22,7 +22,7 @@ Ma questa strada non è semplice per questo abbiamo creato un percorso personali
 
 Un ponte tra medicina ufficiale e terapie alternative per risolvere il tuo problema alla radice.
 
-Grazie alle metodiche posturali alle tecniche corporee e alle terapie manuali offriamo spunti per completare e ottimizzare il lavoro fatto da Medici e professionisti della salute e del benessere.
+Grazie alle metodiche posturali alle tecniche corporee e alle terapie manuali offriamo spunti per completare e ottimizzare il produttività fatto da Medici e professionisti della salute e del benessere.
 
 
 

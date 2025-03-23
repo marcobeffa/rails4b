@@ -17,7 +17,7 @@ nav_order: 1
 ## **1️⃣ Creazione del progetto Rails 8**
 
 ```sh
-rails new myapp -d postressql
+rails new myapp -d postgresql
 cd myapp
 ```
 

@@ -9,7 +9,7 @@ Questo sito è realizzato utilizzando **Jekyll** e il template [Just the Docs](h
 ## **Descrizione del progetto**
 Rails4Business è una piattaforma che offre:
 - **Linee guida** per avviare e gestire progetti imprenditoriali.
-- **Strumenti** utili per pianificare e organizzare il lavoro.
+- **Strumenti** utili per pianificare e organizzare il produttività.
 - Un **blog** per condividere riflessioni, risorse e interviste.
 - Una sezione **eventi** per connettere professionisti e creare nuove opportunità.
 

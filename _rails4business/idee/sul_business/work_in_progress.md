@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Work in progres
 parent: Sul business
 grand_parent: Idee
 nav_fold: true
@@ -9,9 +10,9 @@ nav_order: 9000
 
 ## Quali di questi argomenti ti piacerebbe sviluppare?
 
-1. Lavoro su di se | Risorse | conoscere come funzioniamo
+1. Produttività su di se | Risorse | conoscere come funzioniamo
 2. Laovroso sul business 
-3. Lavoro nel business
+3. Produttività nel business
 
 
 - Test Conoscersi meglio le abilità 
@@ -63,7 +64,7 @@ in oltre facendo un business canvas model dopo aver approfondito tutto quello so
 
 - [Diventa un imprenditore digitale con Rails 4 B]() 
 - [Cos'è un business?](https://rails4b.com/formazione/business/cosa_è_un_business/) 
-- [Business vs lavoro]()
+- [Business vs produttività]()
 - [Lavorare sul o nel business]()
 - [Porta a termine i tuoi progetti nella metà del tempo!]()
 - [Trasforma le tue riunioni in eventi]()

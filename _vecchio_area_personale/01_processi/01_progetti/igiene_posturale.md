@@ -166,7 +166,7 @@ Promuovere il benessere fisico e posturale attraverso un approccio pratico, repl
 
 ## Proposta di Valore
 - **Pacchetto Base**: Accessibile e pratico, rivolto a chi desidera migliorare la postura in gruppo.  
-- **Pacchetto Intermedio**: Unisce i benefici del lavoro di gruppo a un trattamento individuale personalizzato.  
+- **Pacchetto Intermedio**: Unisce i benefici del produttività di gruppo a un trattamento individuale personalizzato.  
 - **Pacchetto Completo**: Percorso avanzato per chi cerca il massimo risultato, con trattamenti individuali aggiuntivi.  
 
 ---

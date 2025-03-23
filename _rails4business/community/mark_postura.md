@@ -117,7 +117,7 @@ Ciao mi chiamo Marco, ho studiato per anni la fisioterapia, le metodiche postura
 
 Ho iniziato a lavorare in ospedale, poi come libero professionista,  man mano che le conoscenze crescevano ho compreso che offrire solo trattamenti non era sufficiente. 
 
-Perciò ho esplorato vari ambienti di lavoro, la scuola, i centri, le squadre di calcio, le associazioni ma i comuni modelli che utilizzavano i fisioterapisti mi stavano stretti, e aprire un centro di fisioterapia dove restare rinchiuso dalla mattina alla sera, mi faceva sentire troppo alle strette.
+Perciò ho esplorato vari ambienti di produttività, la scuola, i centri, le squadre di calcio, le associazioni ma i comuni modelli che utilizzavano i fisioterapisti mi stavano stretti, e aprire un centro di fisioterapia dove restare rinchiuso dalla mattina alla sera, mi faceva sentire troppo alle strette.
 
 Volevo trovare il modo che le conoscenze apprese si diffondessero e entrassero come pratiche e riconosciute da medici dagli altri professionisti della salute e del benessere.
 
@@ -139,7 +139,7 @@ L'idea e l'applicazione, la produzione di contenuti, erano solo una parte di una
 
 Un progetto troppo grande non poteva funzionare era necessario suddividere in progetti più piccoli ma senza perdere la visione d'isieme.
 
-Così dopo mille tentativi e tanto lavoro il tempo passava e rivolgersi a professionisti esterni diventava costoso, era necessario trovare collaboratori con cui riuscire a portare avanti più microprogetti e coordinarli.
+Così dopo mille tentativi e tanto produttività il tempo passava e rivolgersi a professionisti esterni diventava costoso, era necessario trovare collaboratori con cui riuscire a portare avanti più microprogetti e coordinarli.
 
 Ma ben presto è arrivata la consapevolezza che i gruppi e le persone hanno le loro dinamiche le loro esigenze e ogni persona ha delle attitudini che permettono di coprire ruoli più o meno adatti.
 
@@ -182,9 +182,9 @@ La seconda sessione è invece la sezione progetti. Vedo un Business come un ecos
 # Attività settimanali necessarie 
 
 
-| Lun | 05:00 - 13:00 | Val Cavargna | Lavoro sul business Visione d'insieme e realizzazione 
+| Lun | 05:00 - 13:00 | Val Cavargna | Produttività sul business Visione d'insieme e realizzazione 
 | Lun | pomeriggio    | Val Cavargna | 2 clienti online/offline
-| Mar | 5:00 - 13:00  | Val Cavargna | Lavoro Preparazione contenuti
+| Mar | 5:00 - 13:00  | Val Cavargna | Produttività Preparazione contenuti
 | Mar | pomeriggio    |  Val Cavargna | 2 clienti online/offline
 | Mer | 5:00 - 13:00   | Milano - Brescia | Riunioni professionisti pc - rails4B
 | Mer | 19:00 - 20:00 | Calvisano | Gruppo Frapporti |

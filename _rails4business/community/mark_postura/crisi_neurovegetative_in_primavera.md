@@ -66,7 +66,7 @@ Il trattamento mira a **riequilibrare il sistema nervoso autonomo**, riducendo l
 
 ✅ **Tecniche craniosacrali** per liberare le tensioni nella base cranica.
 ✅ **Tecniche di rilascio fasciale** per migliorare la circolazione e la respirazione.
-✅ **Lavoro sul sistema vestibolare** per migliorare l’equilibrio.
+✅ **Produttività sul sistema vestibolare** per migliorare l’equilibrio.
 ✅ **Tecniche di stabilizzazione** per evitare peggioramenti post-rilassamento.
 
 L’obiettivo è ripristinare un funzionamento armonico del suo corpo e del sistema nervoso autonomo.

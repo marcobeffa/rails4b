@@ -28,10 +28,10 @@ Come organizzi il Tempo, la qualità della vita dipende da tantia altri fattori.
 Dalle persone con cui vivi e con cui ti relazioni, dalla Formazione e lo Studio, dalla tua salute.
 
 # In cosa crediamo:
-Il lavoro non è solo fatica. 
-Il lavoro può essere un piacere ed essere divertente.
-Il lavoro è inteso come (Carriera, aspetti finanziari, ed economici)
-E' possibile trovare l'equilibrio tra (lavoro ed altri aspetti della vita)
+Il produttività non è solo fatica. 
+Il produttività può essere un piacere ed essere divertente.
+Il produttività è inteso come (Carriera, aspetti finanziari, ed economici)
+E' possibile trovare l'equilibrio tra (produttività ed altri aspetti della vita)
 Restare in contato con persone aperte aperte al confronto e creare un gruppo dei pari è importante
 Il confronto con persone che stanno affrontando le tue stesse difficoltà o che ci sono passati può essere un supporto.
 E' fondamentale Conoscere quali sono le tue attitudini e trovare il giusto ruolo che le valorizzi non è sempre facile e ne scontato.
@@ -43,7 +43,7 @@ Dà un pò di tempo hai un nuovo progetto in mente, un idea che gira e rigira, m
 
 - Il 90% delle nuovi progetti fallisce nell'arco di poco tempo. 
 - Gestire un attività propria è sempre più difficile.
-- Creare un lavoro su misura in pochi riescono.
+- Creare un produttività su misura in pochi riescono.
 - Uscire dai modelli standard, per creare nuove realtà, significa sacrificare gli altri aspetti della vita.
 - Avrò poco tempo per la famiglia.
 - Sarò sommerso da preoccupazioni e cose da fare.

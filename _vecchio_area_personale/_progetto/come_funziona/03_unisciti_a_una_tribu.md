@@ -14,17 +14,17 @@ Chiedi di partecipare ad una tribù esistente!
 
 ---
 
-<!-- ## Lavoro: **Work** e **Job**
-In inglese esistono due modi per descrivere il lavoro:
+<!-- ## Produttività: **Work** e **Job**
+In inglese esistono due modi per descrivere il produttività:
 
 - **Work**  
-  È il lavoro inteso come gestione, progettazione, visione.  
-  Questo tipo di lavoro ci permette di avere una direzione chiara e di entrare in quello stato di **flusso creativo**, dove tutto sembra scorrere senza sforzo.
+  È il produttività inteso come gestione, progettazione, visione.  
+  Questo tipo di produttività ci permette di avere una direzione chiara e di entrare in quello stato di **flusso creativo**, dove tutto sembra scorrere senza sforzo.
 
 - **Job**  
-  È il lavoro di fatica. La parola "Job" deriva da "Giogo" dei buoi, indicando un’attività necessaria, ma che non dovrebbe mai essere il nostro unico obiettivo.
+  È il produttività di fatica. La parola "Job" deriva da "Giogo" dei buoi, indicando un’attività necessaria, ma che non dovrebbe mai essere il nostro unico obiettivo.
 
-Noi crediamo che il lavoro debba essere un mezzo per:
+Noi crediamo che il produttività debba essere un mezzo per:
 - Garantire risorse per soddisfare bisogni e desideri.
 - Scoprire e valorizzare i nostri **talenti**.
 - Creare un **gruppo armonioso** capace di collaborare e crescere insieme.

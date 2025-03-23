@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Branch
+title: Branch Tree
 parent: Web app rails
 nav_fold: true
 has_children: true
@@ -8,20 +8,9 @@ nav_order: 4
 ---
 
 
-## Branch 
+## Tree branch 
 
 
-rails g authentication user
-
-rails g scaffold Branch parent_id:integer username:references note:references slug_note user_note_username child_id:integer mytype:references
-
-rails g scaffold Mytype user:references name:string  
-
-```rb
-
-```
-
-## Comandi
 
 ## Create app
 
@@ -44,11 +33,11 @@ rails g controller Pages home
 ```
 
 ```sh
-rails g scaffold Category name:string description:text
+rails g scaffold Category user:references Category name:string description:text icon
 
-rails g scaffold Mycategory user:references category:references name:string description:text public:boolean
+rails g scaffold Mycategory user:references category:references name:string description:text icon public:boolean
 
-rails g scaffold Branch user:references slug parent_id:integer note_id:integer slug_note user_note_username child_id:integer mycategory:references 
+rails g scaffold Branch user:references slug parent_id:integer position content_id:integer slug_content user_content_username child_id:integer mycategory:references 
 ```
 
 ```rb
@@ -59,6 +48,7 @@ class User < ApplicationRecord
 
   normalizes :email_address, with: ->(e) { e.strip.downcase }
   has_many :mycategories
+  has_many :categories
   has_many :branches
 end
 
@@ -86,7 +76,7 @@ class Branch < ApplicationRecord
 
   # Validazioni
   validates :slug, presence: true, uniqueness: true
-  validates :slug_note, uniqueness: true, allow_nil: true
+  validates :slug_content, uniqueness: true, allow_nil: true
 end
 
 ```
@@ -128,30 +118,7 @@ bin/rails generate stimulus sortable
 ```
 
 
-app/javascript/controllers/sortable_controller.js 
 
-```js
-import { Controller } from "@hotwired/stimulus";
-import Sortable from "sortablejs";
-
-export default class extends Controller {
-  connect() {
-    this.initSortable();
-  }
-
-  initSortable() {
-    this.element.querySelectorAll(".nested-sortable").forEach(container => {
-      new Sortable(container, {
-        group: "nested",
-        animation: 150,
-        fallbackOnBody: true,
-        swapThreshold: 0.65
-      });
-    });
-  }
-}
-
-```
 
 ```html
 
@@ -198,11 +165,22 @@ sortable.css
 
 ```rb
 # branches_controller.rb
- def update_position
-    if @branch.update(parent_id: params[:parent_id], position: params[:position].to_i)
-      render json: { success: true, message: "Position updated", branch: @branch }
-    else
-      render json: { success: false, errors: @branch.errors.full_messages }, status: :unprocessable_entity
+   def updateposition
+    @branch_root = @branch.root
+    new_position = params[:position].to_i
+    parent_id = params[:parent_id]
+
+    respond_to do |format|
+      if @branch.update(parent_id: parent_id)
+        # acts_as_list è 1-based, ma se il valore è 0, forziamo a 1
+        @branch.insert_at(new_position)
+
+        format.html { redirect_to @branch_root } # , notice:  "Branch spostato con successo." }
+        format.json { render :show, status: :ok, location: @branch_root }
+      else
+        format.html { render :edit, status: :unprocessable_entity }
+        format.json { render json: @branch.errors, status: :unprocessable_entity }
+      end
     end
   end
 
@@ -366,11 +344,10 @@ gem 'annotate'
 
 ```rb
 # branch.rb
-
 class Branch < ApplicationRecord
   belongs_to :user
   belongs_to :mycategory, optional: true
-  has_many :mycategory
+
   has_many :category, through: :mycategory
 
   # Gerarchia dell'albero (Parent-Child)
@@ -382,17 +359,17 @@ class Branch < ApplicationRecord
   has_many :linked_parents, class_name: "Branch", foreign_key: "child_id", dependent: :nullify
 
   # Gestisce l'ordine tra i figli dello stesso parent
-  acts_as_list scope: :parent_id 
+  acts_as_list scope: :parent_id
 
   # Validazioni
   validates :slug, presence: true, uniqueness: true
-#  validates :slug_note, uniqueness: true, allow_nil: true
+  #  validates :slug_note, uniqueness: true, allow_nil: true
   def root
     self.class.where(id: self_and_ancestors_ids.first).first
   end
 
   def self_and_ancestors_ids
-    ids = [id]
+    ids = [ id ]
     current = self
     while current.parent_id.present?
       ids.unshift(current.parent_id)
@@ -401,6 +378,7 @@ class Branch < ApplicationRecord
     ids
   end
 end
+
 
 ```
 

@@ -25,7 +25,7 @@ nav_order: 2
 | 6 | Schede esercizi posturacorrette per la fase acuta  |
 | 7 | Scheda trattamenti posturacorrette per la fase acuta  |
 | 8 | Programma  per la  acuta posturacorrette |
-| 9 | Diario della salute segna lavoro in autonomia e con i professionisti |
+| 9 | Diario della salute segna produttività in autonomia e con i professionisti |
 
 
 

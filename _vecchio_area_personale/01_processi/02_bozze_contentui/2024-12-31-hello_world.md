@@ -23,7 +23,7 @@ Un tempo, per avviare un'attività erano necessari carta, penna e merci fisiche.
 Grazie ai nuovi strumenti disponibili, è possibile strutturare, organizzare e amministrare servizi e progetti. Tutto può partire da questi tre pilastri fondamentali:
 
 1. **Studio dei processi e della mappa organizzativa dei ruoli**  
-   Comprendere chi fa cosa e ottimizzare i flussi di lavoro.
+   Comprendere chi fa cosa e ottimizzare i flussi di produttività.
 
 2. **Contenuti e comunicazione**  
    Creare un messaggio chiaro e coinvolgente per il pubblico.

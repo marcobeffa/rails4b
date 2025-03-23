@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Note copia di Brutta
+title: Note 
 parent: Web app rails
 
 nav_fold: true
