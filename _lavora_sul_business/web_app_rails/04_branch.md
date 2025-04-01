@@ -12,6 +12,7 @@ nav_order: 4
 
 
 
+
 ## Create app
 
 ```sh
@@ -449,3 +450,90 @@ module BranchesHelper
     md.render(text).html_safe
   end
 end
+
+## 27 mar 2025 
+```sh
+rails generate migration RemoveMycategoryFromBranches mycategory:references
+
+rails generate migration DropCategoriesAndMycategories
+rails destroy scaffold Mycategory
+rails destroy scaffold Category
+```
+```rb
+class DropCategoriesAndMycategories < ActiveRecord::Migration[8.0]
+  def change
+    remove_foreign_key :mycategories, :categories
+    drop_table :categories
+    drop_table :mycategories
+  end
+end
+```
+
+Api 
+```sh 
+
+rails generate scaffold ExternalPost branch:references  api_variabile:string content:json
+rails g migration RemoveIconFromBranches icon:string
+
+rails g migration AddRootToBranches index_branch:boolean
+
+
+
+```sh
+rails g controller api/v1/trees  --skip-template-engine --skip-assets --skip-helper
+
+rails generate migration AddDefaultsToBranches
+rails generate migration AddStructureToBranches structure:boolean:default:false
+```
+
+branch_root_id → radice della struttura
+
+branch_id → nodo a cui è collegato (es. progetto, modulo)
+
+actor_ids → array JSON di user o ruoli coinvolti
+
+📌 Task (impegno operativo)
+bash
+Copia
+Modifica
+rails g model Task content_id:integer user_id:integer status:string start_date:datetime due_date:datetime
+user_id → assegnatario
+
+content_id → cosa deve fare (la compilazione o blocco informativo)
+
+🔁 Request (richiesta o passaggio)
+bash
+Copia
+Modifica
+rails g model Request task_id:integer status:string payload:jsonb
+può essere usata per workflow tra task (es. approvazioni, richieste info)
+
+🗓️ DataEvent (evento reale)
+bash
+Copia
+Modifica
+rails g model DataEvent task_id:integer user_id:integer data:datetime place_id:integer contact_id:integer transaction_id:integer body:jsonb
+Quando un Task è completato → si registra qui
+
+Collegabile a:
+
+Place
+
+Contact
+
+Transaction
+
+💶 Transaction
+bash
+Copia
+Modifica
+rails g model Transaction data:datetime amount:decimal currency:string description:string
+📍 Place
+bash
+Copia
+Modifica
+rails g model Place name:string address:string geolocation:jsonb
+👤 Contact
+bash
+Copia
+Modifica

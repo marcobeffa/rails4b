@@ -97,4 +97,6 @@ end
 ```sh
 rails c
 User.create(email_address: "mario@mario.it", password: "123456")
+
+
 ```
