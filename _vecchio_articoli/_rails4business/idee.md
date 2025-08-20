@@ -68,3 +68,46 @@ nav_order: 2
 - generalizzazione 
 - gradienti pesi concordi
 - gradienti pesi discordi
+
+
+#  2 maggio 08:40
+
+Post instagram
+
+# Ven 2 maggio 08:40
+
+Video Youtube 
+
+
+
+# Ven 2 maggio 08:01
+
+rails new posturacorretta_app -d postgresql --css=tailwind
+cd posturacorretta_app
+
+# Aggiungi Flowbite
+yarn add flowbite
+# poi importa in app/javascript/application.js:
+# import 'flowbite';
+
+bundle add devise
+rails generate devise:install
+rails generate devise User
+rails db:migrate
+
+
+rails generate scaffold Course \
+  title:string \
+  description:text \
+  url:string \
+  image_copertina:text \
+  controller:string
+  action:string
+rails db:migrate
+
+
+rails generate scaffold Iscription course:references user:references
+rails db:migrate
+
+- bitbucket 
+- hatchbox

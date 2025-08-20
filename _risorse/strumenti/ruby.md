@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Ruby 
-parent: Attrezzi
+parent:  Strumenti 
+
 nav_fold: true 
 has_children: true
 nav_order: 3

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Css
-parent: Attrezzi
+parent: Strumenti
 nav_fold: true 
 has_children: true
 nav_order: 5

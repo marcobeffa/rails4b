@@ -11,8 +11,6 @@ nav_order: 4
 ## Tree branch 
 
 
-
-
 ## Create app
 
 ```sh
@@ -28,6 +26,7 @@ bin/rails generate css_zero:add --help
 bin/rails g authentication
 
 User.create(email_address: "mario@mario.it", password: "123456")
+
 
 
 rails g controller Pages home 
@@ -537,3 +536,28 @@ rails g model Place name:string address:string geolocation:jsonb
 bash
 Copia
 Modifica
+
+
+rails g scaffold Datecalendar user:references title:string description:text start_time:datetime end_time:datetime area:string event_type:string visibility:string completed:boolean
+
+
+rails g migration RemoveStructureFromBranches structure:boolean
+rails g migration AddContentToBranch content:boolean 
+
+
+def change
+  add_column :branches, :content, :boolean, default: true, null: false
+end
+
+
+# Hash completo 
+# Tree Menu attivo 
+# External Post
+# Label
+
+
+rails generate migration ChangeContentToUpdatedContentInBranches
+
+rails g migration RemoveLabelFromBranch label:boolean
+
+rails g migration AddExtrafieldsToBranch field:boolean field_type:integer

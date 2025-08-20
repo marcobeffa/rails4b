@@ -105,19 +105,11 @@ collections:
 
  
 
-  lavora_sul_business:
+  risorse:
     permalink: "/:collection/:path/"
     output: true
   
-  progetti:
-    permalink: "/:collection/:path/"
-    output: true
   
-
-  rails4business: 
-    permalink: "/:collection/:path/"
-    output: true
-
 
  
   # risorse: 
@@ -146,16 +138,11 @@ just_the_docs:
     
   
 
-    lavora_sul_business: 
-      name: Lavora sul business
+    risorse: 
+      name: Risorse
   
 
-    progetti: 
-      name: Progetti
-
-    rails4business: 
-      name: Rails 4 Business 
-  
+     
 
 
     # risorse: 

@@ -1,12 +1,26 @@
 ---
 layout: default
-title: Applicazione Monolitica
-parent: Ruby on rails
-grand_parent: Come funziona
-nav_fold: true
+title: Ruby on Rails 
+parent: Strumenti
+nav_fold: true 
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
+
+# Rails 
+
+[Cos'è?](https://rubyonrails.org/)
+
+[Come iniziare?](https://guides.rubyonrails.org/getting_started.html)
+
+
+
+## **Ruby on rails**
+
+Rails è un framework che può essere utilizzato da piccole realtà perchè permette di sviluppare applicazioni web in modo veloce e con costi contenuti.
+Utilizziamo ruby on rails perchè è fondato su principi che favoriscono lo sviluppo in piccoli team.
+
+
 
 ## **[Riassunto articolo the majestic monolith](https://signalvnoise.com/svn3/the-majestic-monolith/)**
 
@@ -85,4 +99,6 @@ Il testo discute due principali modelli architetturali per lo sviluppo software:
 
 ### **Messaggio finale**
 💡 **Se hai un team piccolo e un prodotto che non richiede distribuzione massiva, dimentica i microservizi e rendi il tuo monolite maestoso! 🚀**
+
+
 

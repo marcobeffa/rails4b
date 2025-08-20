@@ -1063,3 +1063,47 @@ Se in futuro vuoi rilasciare **v2**, puoi semplicemente copiare il controller in
 
 Se hai bisogno di aggiungere autenticazione (JWT, token, ecc.) o ottimizzare la risposta con **Jbuilder** o **Fast JSON API**, fammelo sapere! 🚀
 
+
+rails g migration AddImageToContent image:text
+
+rails g migration AddVideoUrlToContents video_url:text
+
+
+```rb
+def video_provider
+  case video_url
+  when /youtu\.?be/ then 'youtube'
+  when /vimeo\.com/ then 'vimeo'
+  when /wistia/ then 'wistia'
+  when /mux/ then 'mux'
+  else 'unknown'
+  end
+end
+
+def video_id
+  case video_provider
+  when 'youtube'
+    video_url[/((?<==)v=|(?<=be\/))[^&\n]+/]
+  when 'vimeo'
+    video_url[%r{vimeo\.com/(\d+)}, 1]
+  when 'wistia'
+    video_url[%r{wistia\.com/medias/([^?\/]+)}, 1]
+  when 'mux'
+    video_url[%r{stream\.mux\.com/([^?\/]+)}, 1]
+  end
+end
+
+def embed_url
+  return nil unless video_id
+  case video_provider
+  when 'youtube'
+    "https://www.youtube.com/embed/#{video_id}"
+  when 'vimeo'
+    "https://player.vimeo.com/video/#{video_id}"
+  when 'wistia'
+    "https://fast.wistia.net/embed/iframe/#{video_id}"
+  when 'mux'
+    "https://stream.mux.com/#{video_id}.m3u8" # o .mp4 a seconda del player
+  end
+end
+```

@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Code editor 
-parent: Attrezzi
+parent: Strumenti
 nav_fold: true 
 has_children: true
 nav_order: 4
 ---
 
 # Code editor 
-
+- [Lazy nvim](https://www.lazyvim.org/)
 - [MacVim](https://macvim.org/) 
 - [Visual studio code](https://code.visualstudio.com/)
 - [Cursor](https://www.cursor.com/)
