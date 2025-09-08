@@ -4,6 +4,10 @@ parent: Webapp app rails
 layout: default
 nav_order: 1
 ---
+# Prossimo step 
+Aggiornare nello stile madmuscle
+e poi aggiungere le 2 schermate iniziali che spiegano come funziona il test
+e poi mettere l'user che con i cookies ospite 
 
 # Webapp Mobilità articolare semplificata
 Quest'app fa parte del workflow utente dell'igiene posturale:
