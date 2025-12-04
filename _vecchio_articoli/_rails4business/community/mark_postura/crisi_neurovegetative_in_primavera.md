@@ -2,7 +2,7 @@
 layout: default
 title: Crisi neurovegetativa inizio primavera
 parent: Mark Postura
-grand_parent: Community
+grand_parent:  Community
 nav_fold: true
 has_children: true
 nav_order: 2

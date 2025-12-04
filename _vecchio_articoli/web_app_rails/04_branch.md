@@ -37,7 +37,7 @@ rails g scaffold Category user:references Category name:string description:text 
 
 rails g scaffold Mycategory user:references category:references name:string description:text icon public:boolean
 
-rails g scaffold Branch user:references slug parent_id:integer position content_id:integer slug_content user_content_username child_id:integer mycategory:references 
+rails g scaffold Branch user:references slug parent_id:integer nav_order content_id:integer slug_content user_content_username child_id:integer mycategory:references 
 ```
 
 ```rb
@@ -165,15 +165,15 @@ sortable.css
 
 ```rb
 # branches_controller.rb
-   def updateposition
+   def updatenav_order
     @branch_root = @branch.root
-    new_position = params[:position].to_i
+    new_nav_order = params[:nav_order].to_i
     parent_id = params[:parent_id]
 
     respond_to do |format|
       if @branch.update(parent_id: parent_id)
         # acts_as_list è 1-based, ma se il valore è 0, forziamo a 1
-        @branch.insert_at(new_position)
+        @branch.insert_at(new_nav_order)
 
         format.html { redirect_to @branch_root } # , notice:  "Branch spostato con successo." }
         format.json { render :show, status: :ok, location: @branch_root }
@@ -234,30 +234,30 @@ export default class extends Controller {
         fallbackOnBody: true,
         swapThreshold: 0.65,
         handle: ".drag-handle",
-        onEnd: (event) => this.updatePosition(event)
+        onEnd: (event) => this.updatenav_order(event)
       });
     });
   }
 
-  async updatePosition(event) {
+  async updatenav_order(event) {
     const item = event.item;
     const parent = item.closest(".nested-sortable")?.closest(".list-group-item");
     const newParentId = parent ? parent.dataset.id : null;
-    const newPosition = event.newIndex + 1;
+    const newnav_order = event.newIndex + 1;
   
     console.log("Item ID:", item.dataset.id);
     console.log("New Parent ID:", newParentId);
-    console.log("New Position:", newPosition);
+    console.log("New nav_order:", newnav_order);
   
     try {
-      const response = await fetch(`/branches/${item.dataset.id}/update_position`, {
+      const response = await fetch(`/branches/${item.dataset.id}/update_nav_order`, {
         method: "PATCH",
         headers: { 
           "Content-Type": "application/json", 
           "X-CSRF-Token": document.querySelector('meta[name="csrf-token"]').content 
         },
         body: JSON.stringify({ 
-          position: newPosition, 
+          nav_order: newnav_order, 
           parent_id: newParentId 
         }),
       });
@@ -289,11 +289,11 @@ gem 'annotate'
 ```html
 <!--_child.html.erb-->
 <li class="list-group-item" data-id="<%= branch.id %>">
-   <%= branch.position %> - <span class="drag-handle">☰</span> 
+   <%= branch.nav_order %> - <span class="drag-handle">☰</span> 
   - <%= branch.slug %> 
   <% if branch.children.any? %>
     <ul class="nested-sortable" data-sortable-target="list">
-      <%= render partial: "child", collection: branch.children.order(:position), as: :branch %>
+      <%= render partial: "child", collection: branch.children.order(:nav_order), as: :branch %>
     </ul>
     <% else %>
     <ul class="nested-sortable" data-sortable-target="list">
@@ -309,7 +309,7 @@ gem 'annotate'
   <li class="list-group-item" data-id="<%= @branch.id %>" data-parent-id="<%= @branch.parent_id %>">
     <span class="drag-handle">☰</span> <%= @branch.slug %>
     <ul class="nested-sortable" data-sortable-target="list">
-      <%= render partial: "child", collection: @branch.children.order(:position), as: :branch %>
+      <%= render partial: "child", collection: @branch.children.order(:nav_order), as: :branch %>
     </ul>
   </li>
 </div>
@@ -318,18 +318,18 @@ gem 'annotate'
 
 ```rb
 # branches_controller.rb
-  def update_position
+  def update_nav_order
     parent_id = params[:parent_id].presence || nil
-    new_position = params[:position].to_i
+    new_nav_order = params[:nav_order].to_i
   
-    if @branch.update(parent_id: parent_id, position: new_position)
-      @branch.insert_at(new_position)  # Forza la posizione
+    if @branch.update(parent_id: parent_id, nav_order: new_nav_order)
+      @branch.insert_at(new_nav_order)  # Forza la posizione
       
       # Trova la radice della gerarchia dopo l'aggiornamento
       root_branch = @branch.root
   
       respond_to do |format|
-        format.json { render json: { success: true, position: @branch.position, parent_id: @branch.parent_id, root_id: root_branch.id } }
+        format.json { render json: { success: true, nav_order: @branch.nav_order, parent_id: @branch.parent_id, root_id: root_branch.id } }
         format.html { redirect_to branch_path(root_branch), notice: "Branch aggiornato con successo!" }
       end
     else

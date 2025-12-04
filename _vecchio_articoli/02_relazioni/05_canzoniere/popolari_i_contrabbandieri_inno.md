@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Popolari - I Contrabbandieri - inno
-grand_parent: 2) Relazione
+grand_parent:  2) Relazione
 parent: 5) Canzoniere
 nav_fold: true 
 has_children: true

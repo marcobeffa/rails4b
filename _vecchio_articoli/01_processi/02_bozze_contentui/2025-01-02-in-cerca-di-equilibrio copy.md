@@ -1,7 +1,7 @@
 ---
 title: "In cerca di equilibrio"
 # parent: Blog 
-grand_parent: 1) Processi
+grand_parent:  1) Processi
 parent: 2) Bozze contenuti
 tag: rails4b.com
 date: 2025-01-02 10:00:00 +0000

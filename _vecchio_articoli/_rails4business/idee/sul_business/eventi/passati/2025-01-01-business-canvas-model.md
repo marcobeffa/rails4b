@@ -1,7 +1,7 @@
 ---
 title: "01 gen 2025 - ore 17:00 Business Canvas Model"
 parent: Eventi
-grand_parent: Idee 
+grand_parent:  Idee 
 category: Eventi Formazione Business
 date: 2025-01-01 17:00:00 +0000
 layout: default

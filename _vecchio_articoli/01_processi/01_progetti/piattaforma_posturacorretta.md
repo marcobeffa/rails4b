@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Piattaforma contenuti PosturaCorretta
-grand_parent: Ideatore Mark Postura 
-grand_parent: 1) Processi
+grand_parent:  Ideatore Mark Postura 
+grand_parent:  1) Processi
 parent: 1) Progetti
 has_children: true
 nav_order: 3

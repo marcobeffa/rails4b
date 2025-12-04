@@ -2,7 +2,7 @@
 layout: default
 title: Tree Categorie
 parent: Sul business
-grand_parent: Idee
+grand_parent:  Idee
 nav_fold: true
 has_children: true
 nav_order: 4
@@ -10,7 +10,7 @@ nav_order: 4
 
 # Creare una struttura ad albero 
 
-rails g scaffold Branches parent_id: position:integer note:references
+rails g scaffold Branches parent_id: nav_order:integer note:references
 
 rails g scaffold Link
 
@@ -396,7 +396,7 @@ User.create(email_address: "mario@mario.it", password: "123456")
 
 ## **"3" Create Branchs**
 ```sh
-rails g scaffold Branch user:references name parent_id:integer position:integer 
+rails g scaffold Branch user:references name parent_id:integer nav_order:integer 
 ```
 
 ## **"3" Helper per trovare la root**

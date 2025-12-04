@@ -3,7 +3,7 @@ layout: default
 title: Card Profile
 #parent: Flowpulse 
 parent: Sul business
-grand_parent: Idee
+grand_parent:  Idee
 nav_fold: true
 has_children: true
 nav_order: 3
@@ -41,7 +41,7 @@ style.css
 }
 
 .card-header {
-  position: relative;
+  nav_order: relative;
 }
 
 .profile-img {

@@ -2,7 +2,7 @@
 layout: default
 title: Accademia
 parent: Web app rails
-grand_parent: Strumenti 
+grand_parent:  Strumenti 
 nav_fold: true
 has_children: true
 nav_order: 5

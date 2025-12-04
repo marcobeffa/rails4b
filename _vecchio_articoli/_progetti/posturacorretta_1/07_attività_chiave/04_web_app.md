@@ -2,7 +2,7 @@
 layout: default
 title: Web app Creazione e aggiornamenti
 parent: Attività chiave
-grand_parent: PosturaCorretta 1
+grand_parent:  PosturaCorretta 1
 nav_fold: true
 has_children: true
 nav_order: 4
@@ -82,7 +82,7 @@ Componenti necessari
 - Profile
 - Contact 
 
-- Project profile:references name parent_id child_id position 
+- Project profile:references name parent_id child_id nav_order 
 
 - Note profile:references project:references visibility
 - Service name price autonomia gruppo singolo online offline

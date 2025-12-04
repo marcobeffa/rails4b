@@ -2,7 +2,7 @@
 layout: default
 title: Profile
 parent: Posturacorretta
-grand_parent: Web app rails
+grand_parent:  Web app rails
 nav_fold: true
 has_children: true
 nav_order: 04

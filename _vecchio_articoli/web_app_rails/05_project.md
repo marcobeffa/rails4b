@@ -43,7 +43,7 @@ rails g controller Branches index show
 rails g scaffold Event \
   lat:decimal \
   long:decimal \
-  position:text \
+  nav_order:text \
   gmaps_url:string \
   number_max_participants:integer \
   number_min_participants:integer \
@@ -93,7 +93,7 @@ rails g scaffold Role \
 rails g scaffold Task \
   role:references \
   record:references \
-  position:integer \
+  nav_order:integer \
   parent_id:integer
 
 rails g scaffold Engagement \
@@ -138,7 +138,7 @@ parent_role_id
 
 parent_task_id
 
-position 
+nav_order 
 👉 Questo ti permette di strutturare viaggi multilivello, task nested, e costruire un albero di eventi umani.
 
 🌪️ Coinvolgimento (Engagement)
@@ -428,12 +428,12 @@ end
 rails g scaffold Roletask \
   role:references \
   record:references \
-  position:integer
+  nav_order:integer
 ```
 
 Questo modello serve a:
 - Collegare dinamicamente un ruolo a uno o più record
-- Ordinare i compiti del ruolo con `position`
+- Ordinare i compiti del ruolo con `nav_order`
 
 ---
 
@@ -451,7 +451,7 @@ E nella migration:
 ```ruby
 t.references :role, null: false, foreign_key: true
 t.references :record, null: false, foreign_key: true
-t.integer :position
+t.integer :nav_order
 ```
 
 ---
@@ -528,7 +528,7 @@ rails g scaffold Role \
 rails g scaffold Task \
   role:references \
   record:references \
-  position:integer \
+  nav_order:integer \
   parent_id:integer
 ```
 
@@ -575,7 +575,7 @@ end
 
   <%= f.hidden_field :record_id, value: task.record_id %>
   <%= f.hidden_field :parent_id %>
-  <%= f.hidden_field :position %>
+  <%= f.hidden_field :nav_order %>
 
   <div class="mt-4 flex gap-2">
     <%= f.submit "💾 Salva Task", class: "btn btn--primary" %>
@@ -680,7 +680,7 @@ end
 private
 
 def task_params
-  params.require(:task).permit(:record_id, :role_id, :parent_id, :position)
+  params.require(:task).permit(:record_id, :role_id, :parent_id, :nav_order)
 end
 ```
 
@@ -742,7 +742,7 @@ end
     <% @tasks.each do |task| %>
       <li class="p-2 border rounded">
         <strong>Ruolo:</strong> <%= task.role.name %><br>
-        <strong>Posizione:</strong> <%= task.position %><br>
+        <strong>Posizione:</strong> <%= task.nav_order %><br>
         <strong>Parent ID:</strong> <%= task.parent_id || 'Nessuno' %><br>
         <%= link_to '✏️ Modifica', edit_task_path(task), class: "text-blue-600 underline" %> |
         <%= link_to '🗑️ Elimina', task, method: :delete, data: { confirm: 'Sei sicuro?' }, class: "text-red-600 underline" %>
@@ -825,7 +825,7 @@ end
     <% @tasks.each do |task| %>
       <li class="p-2 border rounded">
         <strong>Ruolo:</strong> <%= task.role.name %><br>
-        <strong>Posizione:</strong> <%= task.position %><br>
+        <strong>Posizione:</strong> <%= task.nav_order %><br>
         <strong>Parent ID:</strong> <%= task.parent_id || 'Nessuno' %><br>
         <%= link_to '✏️ Modifica', edit_task_path(task), class: "text-blue-600 underline" %> |
         <%= link_to '🗑️ Elimina', task, method: :delete, data: { confirm: 'Sei sicuro?' }, class: "text-red-600 underline" %>
@@ -855,10 +855,6 @@ end
 ---
 
 
-
-
-
-
 -----
 
 role_show_task
@@ -870,7 +866,7 @@ role_show_task
 
 ## 🎯 Obiettivo
 
-Mostrare nella vista `roles/show` tutti i Task associati al ruolo corrente, ordinati per `position`, e visualizzati come albero gerarchico (padre → figli).
+Mostrare nella vista `roles/show` tutti i Task associati al ruolo corrente, ordinati per `nav_order`, e visualizzati come albero gerarchico (padre → figli).
 
 ---
 
@@ -896,7 +892,7 @@ end
 ```ruby
 def show
   @role = Role.find(params[:id])
-  @tasks = @role.tasks.where(parent_id: nil).order(:position)
+  @tasks = @role.tasks.where(parent_id: nil).order(:nav_order)
 end
 ```
 
@@ -909,10 +905,10 @@ end
   <% tasks.each do |task| %>
     <li class="mb-2">
       🔹 <%= link_to task.record.name || "Record ##{task.record_id}", record_path(task.record) %>
-      (<strong>Posizione:</strong> <%= task.position %>)
+      (<strong>Posizione:</strong> <%= task.nav_order %>)
 
       <% if task.children.any? %>
-        <%= render partial: "tasks/tree", locals: { tasks: task.children.order(:position) } %>
+        <%= render partial: "tasks/tree", locals: { tasks: task.children.order(:nav_order) } %>
       <% end %>
     </li>
   <% end %>
@@ -946,7 +942,7 @@ end
 
 ## 🧠 Consiglio
 
-Aggiungi sempre un `position` visibile in debug per gestire gli ordinamenti nei test iniziali!
+Aggiungi sempre un `nav_order` visibile in debug per gestire gli ordinamenti nei test iniziali!
 
 ---
 
@@ -980,7 +976,7 @@ rails g model Engagement \
   dati:jsonb
 ```
 ```bash
-rails g migration AddPlatformToStructure business_name:string platform_url:string space_osposition:integer 
+rails g migration AddPlatformToStructure business_name:string platform_url:string space_osnav_order:integer 
 ```
 ---
 
@@ -1084,7 +1080,3 @@ Questo schema ti permette già da ora:
 - Integrare flussi esterni senza cambiare struttura
 
 ---
-
-
-
-

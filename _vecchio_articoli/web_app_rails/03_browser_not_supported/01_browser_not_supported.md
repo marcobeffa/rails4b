@@ -2,7 +2,7 @@
 layout: default
 title: Browser not supported
 parent: Note 
-grand_parent: Web app rails
+grand_parent:  Web app rails
 
 nav_fold: true
 has_children: true

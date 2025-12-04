@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4) E. Formazione IT
-grand_parent: Come funziona
+grand_parent:  Come funziona
 parent: 1) Partecipa agli eventi 
 nav_order: 4
 ---

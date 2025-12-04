@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2) E. Progetto
-grand_parent: Come funziona
+grand_parent:  Come funziona
 parent: 1) Partecipa agli eventi 
 nav_order: 2
 ---

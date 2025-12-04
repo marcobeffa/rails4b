@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mark Postura
-grand_parent: Chi siamo
+grand_parent:  Chi siamo
 parent: Ideatori
 has_children: true
 nav_folder: true

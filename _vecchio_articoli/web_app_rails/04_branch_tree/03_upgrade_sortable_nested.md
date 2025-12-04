@@ -2,7 +2,7 @@
 layout: default
 title: Upgrade Sortablejs nested list
 parent: Branch Tree
-grand_parent: Web app rails
+grand_parent:  Web app rails
 nav_fold: true
 has_children: true
 nav_order: 3
@@ -15,7 +15,7 @@ Possibili opzioni:
 ## ✅ Stato attuale
 - Il sistema aggiorna la posizione dei rami con una richiesta `GET` e redirect:
   ```
-  /branches/1/updateposition?parent_id=2&position=1&id=5
+  /branches/1/updatenav_order?parent_id=2&nav_order=1&id=5
   ```
 - Funziona bene in fase di sviluppo e test.
 - UX non ottimale: ricarica l’intera pagina, più consumo di banda e tempo.
@@ -36,7 +36,7 @@ Aggiornare il sistema per:
 ### ✅ Frontend (JavaScript)
 
 ```js
-fetch('/branches/updateposition', {
+fetch('/branches/updatenav_order', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
@@ -45,7 +45,7 @@ fetch('/branches/updateposition', {
   body: JSON.stringify({
     id: itemId,
     parent_id: parentId,
-    position: newPosition
+    nav_order: newnav_order
   })
 }).then(response => {
   if (response.ok) window.location.reload(); // oppure aggiorna il DOM
@@ -66,9 +66,9 @@ function getCSRFToken() {
 
 **Controller:**
 ```ruby
-def updateposition
+def updatenav_order
   branch = Branch.find(params[:id])
-  branch.update(parent_id: params[:parent_id], position: params[:position])
+  branch.update(parent_id: params[:parent_id], nav_order: params[:nav_order])
 
   respond_to do |format|
     format.html { redirect_to branches_path, notice: "Posizione aggiornata" }
@@ -79,7 +79,7 @@ end
 
 **Rotta:**
 ```ruby
-post 'branches/updateposition', to: 'branches#updateposition'
+post 'branches/updatenav_order', to: 'branches#updatenav_order'
 ```
 
 ---
@@ -95,11 +95,11 @@ format.turbo_stream
 ```
 
 **Partial:**
-`app/views/branches/updateposition.turbo_stream.erb`
+`app/views/branches/updatenav_order.turbo_stream.erb`
 
 **Form:**
 ```erb
-<%= form_with url: updateposition_branches_path, method: :post, data: { turbo: true } do |f| %>
+<%= form_with url: updatenav_order_branches_path, method: :post, data: { turbo: true } do |f| %>
   ...
 <% end %>
 ```

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Percorso Utente
-grand_parent: Applicazioni
+grand_parent:  Applicazioni
 parent:  Rails Posturacorretta
 
 nav_order: 1

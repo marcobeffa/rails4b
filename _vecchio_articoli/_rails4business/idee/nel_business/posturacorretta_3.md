@@ -2,15 +2,11 @@
 layout: default
 title: PosturaCorretta 3
 parent: Nel business
-grand_parent: Idee
+grand_parent:  Idee
 nav_fold: true
 has_children: true
 nav_order: 3
 ---
-
-
-
-
 # Parte 3  - Posturacorretta 
 
 parte 3 |  Accademia formazione professionisti 

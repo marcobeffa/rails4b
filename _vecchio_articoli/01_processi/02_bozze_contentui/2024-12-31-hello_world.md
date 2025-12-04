@@ -1,7 +1,7 @@
 ---
 title: "Tutto inizia da: Hello World"
 # parent: Blog 
-grand_parent: 1) Processi
+grand_parent:  1) Processi
 parent: 2) Bozze contenuti
 tag: rails4b.com
 date: 2024-12-31 10:00:00 +0000

@@ -1,9 +1,9 @@
 ---
 title: "02 gen 2025 - ore 10:00 Creare organizzazioni"
 parent: Eventi
-grand_parent: Idee 
+grand_parent:  Idee 
 # parent: Passati
-# grand_parent: Eventi
+# grand_parent:  Eventi
 category: Eventi Formazione Business
 date: 2025-01-02 10:00:00 +0000
 layout: default

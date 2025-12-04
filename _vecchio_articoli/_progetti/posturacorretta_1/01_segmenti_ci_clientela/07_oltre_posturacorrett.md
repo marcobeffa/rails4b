@@ -2,7 +2,7 @@
 layout: default
 title: Oltre PosturaCorretta
 parent: Segmenti di clientela
-grand_parent: PosturaCorretta 1
+grand_parent:  PosturaCorretta 1
 nav_fold: true
 has_children: true
 nav_order: 7

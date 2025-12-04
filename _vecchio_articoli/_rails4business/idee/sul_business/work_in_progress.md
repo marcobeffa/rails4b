@@ -2,7 +2,7 @@
 layout: default
 title: Work in progres
 parent: Sul business
-grand_parent: Idee
+grand_parent:  Idee
 nav_fold: true
 has_children: true
 nav_order: 9000
@@ -51,7 +51,7 @@ https://insideout-training.it/blog/stili-di-leadership-di-successo-per-raggiunge
     Struttura dei costi (transazioni)
 
 -> Processi come AlberoNote
-in oltre facendo un business canvas model dopo aver approfondito tutto quello sopra, ogni cosa si potrebbe riassumere in un processo e ogni processo ha delle attività che devono essere portate a termine alcune 1 volta altre essere ripetute, per questo pensavo che il fulcro era che con flowpulse dovessi creare una prima app che mette i processi come una todo list e la dodo list può essere ramificata. Es User -> Profile -> Note rails g Note profile:references nome descrizione body:text parent_id:integer child_id:integer( se si usa il child id la nota salta ad un altro collegamento e non potra) position:integer con act as_list
+in oltre facendo un business canvas model dopo aver approfondito tutto quello sopra, ogni cosa si potrebbe riassumere in un processo e ogni processo ha delle attività che devono essere portate a termine alcune 1 volta altre essere ripetute, per questo pensavo che il fulcro era che con flowpulse dovessi creare una prima app che mette i processi come una todo list e la dodo list può essere ramificata. Es User -> Profile -> Note rails g Note profile:references nome descrizione body:text parent_id:integer child_id:integer( se si usa il child id la nota salta ad un altro collegamento e non potra) nav_order:integer con act as_list
 
 
 -> Note -> Event ciclo:boolean invito:boolean slot_prenotazione:boolean

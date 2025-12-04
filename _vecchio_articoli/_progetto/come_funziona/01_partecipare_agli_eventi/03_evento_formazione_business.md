@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3) E. Formazione Bus.
-grand_parent: Come funziona
+grand_parent:  Come funziona
 parent: 1) Partecipa agli eventi 
 nav_order: 3
 ---

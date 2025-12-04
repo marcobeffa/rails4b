@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Videomaker Fabrizio Guarisco
-grand_parent: Chi siamo
+grand_parent:  Chi siamo
 parent: Professionisti
 has_children: false
 nav_order: 

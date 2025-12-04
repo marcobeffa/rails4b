@@ -3,14 +3,14 @@ layout: default
 title: Profile
 # parent: Flowpulse 
 parent: Sul business
-grand_parent: Idee
+grand_parent:  Idee
 nav_fold: true
 has_children: true
 nav_order: 1
 ---
 
 parent: Work in progress
-grand_parent: Idee
+grand_parent:  Idee
 ## FlowPulse Profile gestisci il tuo profilo
 
 L'app **FlowPulse Profile** è il primo modulo per la gestione degli utenti e dell'autenticazione. 
@@ -39,10 +39,6 @@ cerca un app per fare i mockup
 - **Importmap** (gestione delle dipendenze)
 
 ---
-
-
-
-
 
 ### Comandi per la creazione dell'app FlowPulse Profile
 

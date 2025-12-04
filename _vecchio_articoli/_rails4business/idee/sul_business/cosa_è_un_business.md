@@ -3,7 +3,7 @@ layout: default
 title: Cos'è un business?
 #parent: Crea un progetto
 parent: Sul business
-grand_parent: Idee
+grand_parent:  Idee
 nav_fold: true
 has_children: true
 nav_order: 100

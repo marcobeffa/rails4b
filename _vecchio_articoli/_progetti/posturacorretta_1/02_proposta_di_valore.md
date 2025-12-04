@@ -82,10 +82,6 @@ Grazie alle metodiche posturali alle tecniche corporee e alle terapie manuali of
 - Corsi il giardino del corpo
 
 ----
-
-
-
-
   - Clienti:
     - Consulenze online 
       - Schede autotrattamento - trattamento

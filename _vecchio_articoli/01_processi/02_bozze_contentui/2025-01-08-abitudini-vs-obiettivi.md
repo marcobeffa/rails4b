@@ -1,7 +1,7 @@
 ---
 title: "Abitudini vs Obiettivi"
 # parent: Blog 
-grand_parent: 1) Processi
+grand_parent:  1) Processi
 parent: 2) Bozze contenuti
 tag: rails4b.com
 date: 2025-01-08 09:45:00 +0000

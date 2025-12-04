@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5) E. Formazione Talenti e Ruoli  
-grand_parent: Come funziona
+grand_parent:  Come funziona
 parent: 1) Partecipa agli eventi 
 nav_order: 6
 ---

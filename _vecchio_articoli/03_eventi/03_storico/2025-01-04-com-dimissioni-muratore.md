@@ -1,7 +1,7 @@
 ---
 title: Decisione Muratore 
 date: 2025-01-04 10:00:00 +0000
-grand_parent: 3) Eventi
+grand_parent:  3) Eventi
 parent: 3) Storico 
 layout: default
 category: comunicazioni

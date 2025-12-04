@@ -2,7 +2,7 @@
 title: Quando qualcosa non va 
 date: 2024-12-28 10:00:00 +0000
 # parent: Blog 
-grand_parent: 1) Processi
+grand_parent:  1) Processi
 parent: 2) Bozze contenuti
 tag: rails4b.com
 layout: default

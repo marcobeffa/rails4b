@@ -18,7 +18,7 @@ def build_nodes(list, arr, parent)
       parent: parent,
       title:  node["title"].to_s,
       slug:   (node["slug"].presence || node["title"].to_s.parameterize),
-      position: idx,
+      nav_order: idx,
       data:   node.except("title","slug","children","client_id") # ignora client_id
     )
     build_nodes(list, node["children"] || [], item)
@@ -69,7 +69,7 @@ def build_nodes(list, arr, parent)
       parent: parent,
       title:  node["title"].to_s,
       slug:   (node["slug"].presence || node["title"].to_s.parameterize),
-      position: idx,
+      nav_order: idx,
       data:   node.except("title","slug","children","external_uid")
     )
     finder.save!

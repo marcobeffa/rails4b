@@ -2,7 +2,7 @@
 layout: default
 title: Sortablejs nested list
 parent: Branch Tree
-grand_parent: Web app rails
+grand_parent:  Web app rails
 nav_fold: true
 has_children: true
 nav_order: 1
@@ -11,7 +11,7 @@ nav_order: 1
 #route.rb
  resources :branches do
     member do
-      get :updateposition
+      get :updatenav_order
       get :mappa
       get :ul
     end
@@ -20,15 +20,15 @@ nav_order: 1
 
 ```rb
 #controller_branches.rb
-def updateposition
+def updatenav_order
   @branch_root = @branch.root
-  new_position = params[:position].to_i
+  new_nav_order = params[:nav_order].to_i
   parent_id = params[:parent_id]
 
   respond_to do |format|
     if @branch.update(parent_id: parent_id)
       # acts_as_list è 1-based, ma se il valore è 0, forziamo a 1
-      @branch.insert_at(new_position)
+      @branch.insert_at(new_nav_order)
 
       format.html { redirect_to ordinabile_branch_path(@branch_root) } # , notice:  "Branch spostato con successo." }
       format.json { render :show, status: :ok, location: ordinabile_branch_path(@branch_root) }
@@ -50,7 +50,7 @@ end
 #  user_id            :integer          not null
 #  slug               :string
 #  parent_id          :integer
-#  position           :integer
+#  nav_order           :integer
 #  content_id         :integer
 #  slug_note          :string
 #  user_note_username :string
@@ -158,13 +158,13 @@ end
         let parentId = parentLi ? parentLi.dataset.id : null;
 
         // Calcola la nuova posizione (index all’interno della lista)
-        let newPosition = Array.from(parentUl.children).indexOf(item);
+        let newnav_order = Array.from(parentUl.children).indexOf(item);
 
         // Esegui redirect alla nuova posizione
-        if (itemId && parentId != null && newPosition != null) {
-          const correctedPosition = parseInt(newPosition) + 1;
+        if (itemId && parentId != null && newnav_order != null) {
+          const correctednav_order = parseInt(newnav_order) + 1;
 
-          const url = `/branches/${itemId}/updateposition?parent_id=${parentId}&position=${correctedPosition}`;
+          const url = `/branches/${itemId}/updatenav_order?parent_id=${parentId}&nav_order=${correctednav_order}`;
 
           window.location.href = url;
         }
@@ -189,7 +189,7 @@ end
   <li class="list-group-item " data-id="<%= @branch.id %>" data-parent-id="<%= @branch.parent_id %>">
     <span class="drag-handle">☰</span> <%= @branch.slug %>
     <ul id="nested-list" class="nested-sortable" data-sortable-target="list">
-      <%= render partial: "sortable_child_simple", collection: @branch.children.order(:position), as: :branch %>
+      <%= render partial: "sortable_child_simple", collection: @branch.children.order(:nav_order), as: :branch %>
     </ul>
   </li>
 </ul>
@@ -203,7 +203,7 @@ end
   id: <%= branch.id %> - <%= branch.slug %>
   <% if branch.children.any? %>
     <ul class="nested-sortable" data-sortable-target="list">
-      <%= render partial: "sortable_child_simple", collection: branch.children.order(:position), as: :branch %>
+      <%= render partial: "sortable_child_simple", collection: branch.children.order(:nav_order), as: :branch %>
     </ul>
   <% else %>
     <ul class="nested-sortable" data-sortable-target="list">
